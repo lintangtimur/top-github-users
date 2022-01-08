@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/1/8 5:28 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/1/8 6:33 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -466,7 +466,7 @@ There are `1000 users`  in Indonesia. You need at least `47 followers` to be on 
 		<td>Vengeful Ghost </td>
 		<td><a href="https://twitter.com/AgaScoot_Reggae">AgaScoot_Reggae</a></td>
 		<td>Indonesia</td>
-		<td>585</td>
+		<td>586</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -11911,19 +11911,6 @@ There are `1000 users`  in Indonesia. You need at least `47 followers` to be on 
 	<tr>
 		<td>909</td>
 		<td>
-			<a href="https://github.com/Arsybai">
-				<img src="https://avatars.githubusercontent.com/u/33319709?s=72&u=f6e2157047f49d2680f8162ab07c77c0ee318804&v=4" width="24" alt="Avatar of Arsybai"> Arsybai
-			</a><br/>
-			Arsybai
-		</td>
-		<td>Clee Ltd </td>
-		<td>No Twitter Username</td>
-		<td>indonesia</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>910</td>
-		<td>
 			<a href="https://github.com/azhe403">
 				<img src="https://avatars.githubusercontent.com/u/17938038?s=72&u=7025feadf583126a4a3f4e90f269613196c94275&v=4" width="24" alt="Avatar of azhe403"> azhe403
 			</a><br/>
@@ -11932,6 +11919,19 @@ There are `1000 users`  in Indonesia. You need at least `47 followers` to be on 
 		<td>Kencot Mikir, Inc </td>
 		<td><a href="https://twitter.com/ztlfddhlfz">ztlfddhlfz</a></td>
 		<td>Cilacap, Indonesia</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>910</td>
+		<td>
+			<a href="https://github.com/Arsybai">
+				<img src="https://avatars.githubusercontent.com/u/33319709?s=72&u=f6e2157047f49d2680f8162ab07c77c0ee318804&v=4" width="24" alt="Avatar of Arsybai"> Arsybai
+			</a><br/>
+			Arsybai
+		</td>
+		<td>Clee Ltd </td>
+		<td>No Twitter Username</td>
+		<td>indonesia</td>
 		<td>50</td>
 	</tr>
 	<tr>
