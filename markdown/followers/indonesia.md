@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/1/15 10:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/1/15 11:30 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -1103,7 +1103,7 @@ There are `1000 users`  in Indonesia. You need at least `47 followers` to be on 
 		<td>Varx Intelligence Software Development<br/></td>
 		<td>No Twitter Username</td>
 		<td>Yogyakarta - Indonesia</td>
-		<td>296</td>
+		<td>297</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -10273,19 +10273,6 @@ There are `1000 users`  in Indonesia. You need at least `47 followers` to be on 
 	<tr>
 		<td>783</td>
 		<td>
-			<a href="https://github.com/Satria3">
-				<img src="https://avatars.githubusercontent.com/u/37049360?s=72&u=28103a553e472921d77e91d6f46b17710b271d8c&v=4" width="24" alt="Avatar of Satria3"> Satria3
-			</a><br/>
-			Satria
-		</td>
-		<td>Bottrox Bot </td>
-		<td>No Twitter Username</td>
-		<td>Bandung</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>784</td>
-		<td>
 			<a href="https://github.com/Tergedel">
 				<img src="https://avatars.githubusercontent.com/u/33751262?s=72&u=0549fd52b672d754e96e45489cfdf031db496c28&v=4" width="24" alt="Avatar of Tergedel"> Tergedel
 			</a><br/>
@@ -10294,6 +10281,19 @@ There are `1000 users`  in Indonesia. You need at least `47 followers` to be on 
 		<td>Antonius Exchanger </td>
 		<td><a href="https://twitter.com/SuxaxioKovak">SuxaxioKovak</a></td>
 		<td>Indonesia</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>784</td>
+		<td>
+			<a href="https://github.com/Satria3">
+				<img src="https://avatars.githubusercontent.com/u/37049360?s=72&u=28103a553e472921d77e91d6f46b17710b271d8c&v=4" width="24" alt="Avatar of Satria3"> Satria3
+			</a><br/>
+			Satria
+		</td>
+		<td>Bottrox Bot </td>
+		<td>No Twitter Username</td>
+		<td>Bandung</td>
 		<td>56</td>
 	</tr>
 	<tr>
