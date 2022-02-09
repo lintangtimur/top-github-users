@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/2/9 4:32 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/2/9 5:25 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -765,7 +765,7 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td>Https://www.vodjo.co </td>
 		<td>No Twitter Username</td>
 		<td>Purwakarta, West Java, Indonesia.</td>
-		<td>371</td>
+		<td>372</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -1064,7 +1064,7 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td>Creator Video </td>
 		<td><a href="https://twitter.com/ZeeoneOfc">ZeeoneOfc</a></td>
 		<td>Sinjai, Sulawesi Selatan, Indonesia</td>
-		<td>312</td>
+		<td>313</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -2065,7 +2065,7 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td>@dicodingacademy </td>
 		<td>No Twitter Username</td>
 		<td>Bandung</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>152</td>
