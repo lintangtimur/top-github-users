@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/2/16 10:31 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/2/16 11:26 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -263,19 +263,6 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/FerdinaKusumah">
-				<img src="https://avatars.githubusercontent.com/u/19812460?s=72&u=f4162e06c5a52b2efdd8cd403ac966404fce3511&v=4" width="24" alt="Avatar of FerdinaKusumah"> FerdinaKusumah
-			</a><br/>
-			Ferdi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jakarta, Indonesia</td>
-		<td>842</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
 			<a href="https://github.com/niomic-id">
 				<img src="https://avatars.githubusercontent.com/u/37602130?s=72&u=c87f035b8ba0c07914fcdbf5c3af4f8955dee8dc&v=4" width="24" alt="Avatar of niomic-id"> niomic-id
 			</a><br/>
@@ -284,6 +271,19 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td>Pt. Cerdaskan Generasi Bangsa<br/></td>
 		<td>No Twitter Username</td>
 		<td>Jakarta</td>
+		<td>843</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/FerdinaKusumah">
+				<img src="https://avatars.githubusercontent.com/u/19812460?s=72&u=f4162e06c5a52b2efdd8cd403ac966404fce3511&v=4" width="24" alt="Avatar of FerdinaKusumah"> FerdinaKusumah
+			</a><br/>
+			Ferdi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Jakarta, Indonesia</td>
 		<td>842</td>
 	</tr>
 	<tr>
@@ -648,7 +648,7 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sugengtigefa">sugengtigefa</a></td>
 		<td>Wonosobo, Indonesia</td>
-		<td>436</td>
+		<td>435</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -843,7 +843,7 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td>Kumpulan Remaja </td>
 		<td><a href="https://twitter.com/4kumpulanremaja">4kumpulanremaja</a></td>
 		<td>semarang</td>
-		<td>357</td>
+		<td>358</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1017,6 +1017,19 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/warifp">
+				<img src="https://avatars.githubusercontent.com/u/28912230?s=72&u=9009395110c8f0f29b5d3862f18751282cbdf6a3&v=4" width="24" alt="Avatar of warifp"> warifp
+			</a><br/>
+			Wahyu Arif Purnomo
+		</td>
+		<td>Varx Intelligence Software Development<br/></td>
+		<td>No Twitter Username</td>
+		<td>Yogyakarta - Indonesia</td>
+		<td>317</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/nrohmen">
 				<img src="https://avatars.githubusercontent.com/u/11240230?s=72&u=d3a6e546818bc102b8918f1d05996394a1ed4b5c&v=4" width="24" alt="Avatar of nrohmen"> nrohmen
 			</a><br/>
@@ -1026,19 +1039,6 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td><a href="https://twitter.com/nrohmen">nrohmen</a></td>
 		<td>Bandung, Indonesia</td>
 		<td>317</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/warifp">
-				<img src="https://avatars.githubusercontent.com/u/28912230?s=72&u=9009395110c8f0f29b5d3862f18751282cbdf6a3&v=4" width="24" alt="Avatar of warifp"> warifp
-			</a><br/>
-			Wahyu Arif Purnomo
-		</td>
-		<td>Varx Intelligence Software Development<br/></td>
-		<td>No Twitter Username</td>
-		<td>Yogyakarta - Indonesia</td>
-		<td>316</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1753,7 +1753,7 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td>@ngarsa-digital </td>
 		<td><a href="https://twitter.com/risyandi94">risyandi94</a></td>
 		<td>Jatinangor,  Indonesia</td>
-		<td>218</td>
+		<td>217</td>
 	</tr>
 	<tr>
 		<td>128</td>
