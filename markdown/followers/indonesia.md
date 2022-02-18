@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/2/18 10:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/2/18 11:28 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -1069,19 +1069,6 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 	<tr>
 		<td>75</td>
 		<td>
-			<a href="https://github.com/p4kl0nc4t">
-				<img src="https://avatars.githubusercontent.com/u/30001379?s=72&u=44b64f3a12b5ac3243d82489e4ae3edf3b34d66f&v=4" width="24" alt="Avatar of p4kl0nc4t"> p4kl0nc4t
-			</a><br/>
-			Faiz Jazadi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
-		<td>306</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
 			<a href="https://github.com/Nurutomo">
 				<img src="https://avatars.githubusercontent.com/u/18616827?s=72&u=11213657ae049bbcf75f40ea18f6b9e593a63a19&v=4" width="24" alt="Avatar of Nurutomo"> Nurutomo
 			</a><br/>
@@ -1091,6 +1078,19 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 		<td><a href="https://twitter.com/nurutomo_gaming">nurutomo_gaming</a></td>
 		<td>Mojokerto, Indonesia</td>
 		<td>306</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/p4kl0nc4t">
+				<img src="https://avatars.githubusercontent.com/u/30001379?s=72&u=44b64f3a12b5ac3243d82489e4ae3edf3b34d66f&v=4" width="24" alt="Avatar of p4kl0nc4t"> p4kl0nc4t
+			</a><br/>
+			Faiz Jazadi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
+		<td>305</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -13016,25 +13016,25 @@ There are `1000 users`  in Indonesia. You need at least `48 followers` to be on 
 	<tr>
 		<td>994</td>
 		<td>
-			<a href="https://github.com/rahmadadeakbar">
-				<img src="https://avatars.githubusercontent.com/u/20199729?s=72&u=b47f3bf0a75fd910e90505dbf971eedacb5edd9f&v=4" width="24" alt="Avatar of rahmadadeakbar"> rahmadadeakbar
+			<a href="https://github.com/lamualfa">
+				<img src="https://avatars.githubusercontent.com/u/39755201?s=72&u=f636958bafc1203c1a305652721f9181f7814ad0&v=4" width="24" alt="Avatar of lamualfa"> lamualfa
 			</a><br/>
-			Rahmad Ade Akbar
+			Laode Muhammad Al Fatih
 		</td>
-		<td>Akbar19 Inc. </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lamualfa">lamualfa</a></td>
 		<td>Indonesia</td>
 		<td>48</td>
 	</tr>
 	<tr>
 		<td>995</td>
 		<td>
-			<a href="https://github.com/kereh">
-				<img src="https://avatars.githubusercontent.com/u/38828786?s=72&u=482013d056f1591219c26d121a5a97135266f304&v=4" width="24" alt="Avatar of kereh"> kereh
+			<a href="https://github.com/rahmadadeakbar">
+				<img src="https://avatars.githubusercontent.com/u/20199729?s=72&u=b47f3bf0a75fd910e90505dbf971eedacb5edd9f&v=4" width="24" alt="Avatar of rahmadadeakbar"> rahmadadeakbar
 			</a><br/>
-			Ronaldo Kereh
+			Rahmad Ade Akbar
 		</td>
-		<td>No Company</td>
+		<td>Akbar19 Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>48</td>
