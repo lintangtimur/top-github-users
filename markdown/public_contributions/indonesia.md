@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` by users in Indonesia on `2022/4/26 6:37 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` by users in Indonesia on `2022/4/26 7:26 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -115,7 +115,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/officialputuid">officialputuid</a></td>
 		<td>Bali, Indonesia</td>
-		<td>165543</td>
+		<td>165546</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>Heaven Inc. </td>
 		<td><a href="https://twitter.com/fdciabdul">fdciabdul</a></td>
 		<td>Bogor , Indonesia</td>
-		<td>16002</td>
+		<td>16007</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -180,7 +180,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>@citycode-id </td>
 		<td><a href="https://twitter.com/algonacci">algonacci</a></td>
 		<td>Jakarta</td>
-		<td>10143</td>
+		<td>10145</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1368,6 +1368,19 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 	<tr>
 		<td>98</td>
 		<td>
+			<a href="https://github.com/grikomsn">
+				<img src="https://avatars.githubusercontent.com/u/8220954?s=72&u=bc6fcb1c00e0cc5dfa44b353f4b9c9c1268c591e&v=4" width="24" alt="Avatar of grikomsn"> grikomsn
+			</a><br/>
+			Griko Nibras
+		</td>
+		<td>@strangelove-venture </td>
+		<td><a href="https://twitter.com/griko_nibras">griko_nibras</a></td>
+		<td>Indonesia</td>
+		<td>842</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
 			<a href="https://github.com/0d3ng">
 				<img src="https://avatars.githubusercontent.com/u/30645300?s=72&u=a697cadcd3620c34701b8678ed2597377a511db8&v=4" width="24" alt="Avatar of 0d3ng"> 0d3ng
 			</a><br/>
@@ -1379,7 +1392,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>839</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/Ibrahimsyah">
 				<img src="https://avatars.githubusercontent.com/u/7591715?s=72&u=7d4dc6cc0b367fc2c147915e9fdb03fc616e5d19&v=4" width="24" alt="Avatar of Ibrahimsyah"> Ibrahimsyah
@@ -1390,19 +1403,6 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Malang, Indonesia</td>
 		<td>836</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/grikomsn">
-				<img src="https://avatars.githubusercontent.com/u/8220954?s=72&u=bc6fcb1c00e0cc5dfa44b353f4b9c9c1268c591e&v=4" width="24" alt="Avatar of grikomsn"> grikomsn
-			</a><br/>
-			Griko Nibras
-		</td>
-		<td>@strangelove-venture </td>
-		<td><a href="https://twitter.com/griko_nibras">griko_nibras</a></td>
-		<td>Indonesia</td>
-		<td>833</td>
 	</tr>
 	<tr>
 		<td>101</td>
