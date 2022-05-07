@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/5/7 5:28 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/5/7 6:35 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -1745,19 +1745,6 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 	<tr>
 		<td>127</td>
 		<td>
-			<a href="https://github.com/YogaSakti">
-				<img src="https://avatars.githubusercontent.com/u/24309806?s=72&u=82c7a6d69508f55b4aca99bc112a25cfc6440b9e&v=4" width="24" alt="Avatar of YogaSakti"> YogaSakti
-			</a><br/>
-			Imperial Owl
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/teman_bahagia">teman_bahagia</a></td>
-		<td>Bandung, ID</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
 			<a href="https://github.com/tustoz">
 				<img src="https://avatars.githubusercontent.com/u/76657906?s=72&u=c1e301e98d225678c61410d508ad87e12914d058&v=4" width="24" alt="Avatar of tustoz"> tustoz
 			</a><br/>
@@ -1766,6 +1753,19 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jakarta, Indonesia</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/YogaSakti">
+				<img src="https://avatars.githubusercontent.com/u/24309806?s=72&u=82c7a6d69508f55b4aca99bc112a25cfc6440b9e&v=4" width="24" alt="Avatar of YogaSakti"> YogaSakti
+			</a><br/>
+			Imperial Owl
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/teman_bahagia">teman_bahagia</a></td>
+		<td>Bandung, ID</td>
 		<td>228</td>
 	</tr>
 	<tr>
@@ -1870,7 +1870,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kholid060">kholid060</a></td>
 		<td>Indonesia</td>
-		<td>217</td>
+		<td>218</td>
 	</tr>
 	<tr>
 		<td>137</td>
