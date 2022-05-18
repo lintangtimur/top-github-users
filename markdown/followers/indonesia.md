@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/5/18 5:36 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/5/18 6:36 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -999,7 +999,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>@teainside @llvm @gnuweeb </td>
 		<td><a href="https://twitter.com/ammarfaizi2">ammarfaizi2</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>352</td>
+		<td>353</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -3942,19 +3942,6 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 	<tr>
 		<td>296</td>
 		<td>
-			<a href="https://github.com/hifiaz">
-				<img src="https://avatars.githubusercontent.com/u/20653803?s=72&u=2e802c912019f11f3d807af08a7b092ff853cdbc&v=4" width="24" alt="Avatar of hifiaz"> hifiaz
-			</a><br/>
-			fiaz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hifiaz">hifiaz</a></td>
-		<td>Bandung</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
 			<a href="https://github.com/rxyhn">
 				<img src="https://avatars.githubusercontent.com/u/93292023?s=72&u=cad17e492034b237a6006e14a1ad8904f34b95ac&v=4" width="24" alt="Avatar of rxyhn"> rxyhn
 			</a><br/>
@@ -3963,6 +3950,19 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>Mugiwara No Ichimi </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
+		<td>131</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/hifiaz">
+				<img src="https://avatars.githubusercontent.com/u/20653803?s=72&u=2e802c912019f11f3d807af08a7b092ff853cdbc&v=4" width="24" alt="Avatar of hifiaz"> hifiaz
+			</a><br/>
+			fiaz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hifiaz">hifiaz</a></td>
+		<td>Bandung</td>
 		<td>130</td>
 	</tr>
 	<tr>
@@ -5463,6 +5463,19 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 	<tr>
 		<td>413</td>
 		<td>
+			<a href="https://github.com/Sings168">
+				<img src="https://avatars.githubusercontent.com/u/102612762?s=72&u=1a80803741f4f7c66a1207d24077068f9c262965&v=4" width="24" alt="Avatar of Sings168"> Sings168
+			</a><br/>
+			Siswanto
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sings168">sings168</a></td>
+		<td>Indonesia</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
 			<a href="https://github.com/edicybereye">
 				<img src="https://avatars.githubusercontent.com/u/28985797?s=72&u=d315ecc2a083a45d1cc7b17432646b33c71daeb2&v=4" width="24" alt="Avatar of edicybereye"> edicybereye
 			</a><br/>
@@ -5474,7 +5487,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/dio">
 				<img src="https://avatars.githubusercontent.com/u/73152?s=72&u=8bfbd95b274e1552007b7d73228fc70d1442fc80&v=4" width="24" alt="Avatar of dio"> dio
@@ -5487,7 +5500,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/LERUfic">
 				<img src="https://avatars.githubusercontent.com/u/30289344?s=72&u=0d1f7ec825fe30cab541b89d0d60bc2c481f27ec&v=4" width="24" alt="Avatar of LERUfic"> LERUfic
@@ -5500,7 +5513,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/MFarelS">
 				<img src="https://avatars.githubusercontent.com/u/58540890?s=72&u=930aa4cd402c03a5e8d04c2d4fa8e8fcc9c8b234&v=4" width="24" alt="Avatar of MFarelS"> MFarelS
@@ -5513,7 +5526,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/idstck">
 				<img src="https://avatars.githubusercontent.com/u/33785863?s=72&u=d8d490058ddb3094a1ae9fc98ea8d189d14bb1d2&v=4" width="24" alt="Avatar of idstck"> idstck
@@ -5526,7 +5539,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/ryan-andri">
 				<img src="https://avatars.githubusercontent.com/u/4983926?s=72&u=3aa661b58bd4fcd8b212e55815351fe3cf3a90ec&v=4" width="24" alt="Avatar of ryan-andri"> ryan-andri
@@ -5539,7 +5552,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/daengdoang">
 				<img src="https://avatars.githubusercontent.com/u/672348?s=72&v=4" width="24" alt="Avatar of daengdoang"> daengdoang
@@ -5552,7 +5565,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/edomaru">
 				<img src="https://avatars.githubusercontent.com/u/941327?s=72&u=03bcc429d0983122933279c87bf94b67eca267f4&v=4" width="24" alt="Avatar of edomaru"> edomaru
@@ -5561,19 +5574,6 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		</td>
 		<td>Tutsprime </td>
 		<td>No Twitter Username</td>
-		<td>Indonesia</td>
-		<td>97</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/Sings168">
-				<img src="https://avatars.githubusercontent.com/u/102612762?s=72&u=1a80803741f4f7c66a1207d24077068f9c262965&v=4" width="24" alt="Avatar of Sings168"> Sings168
-			</a><br/>
-			Siswanto
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sings168">sings168</a></td>
 		<td>Indonesia</td>
 		<td>97</td>
 	</tr>
