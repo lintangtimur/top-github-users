@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` and `private contributions` by users in Indonesia on `2022/5/23 9:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` and `private contributions` by users in Indonesia on `2022/5/23 10:33 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -130,8 +130,8 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>Heaven Inc. </td>
 		<td><a href="https://twitter.com/fdciabdul">fdciabdul</a></td>
 		<td>Bogor , Indonesia</td>
-		<td>18685</td>
-		<td>18700</td>
+		<td>18690</td>
+		<td>18705</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -172,8 +172,8 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>@citycode-id </td>
 		<td><a href="https://twitter.com/algonacci">algonacci</a></td>
 		<td>Jakarta</td>
-		<td>11756</td>
-		<td>11756</td>
+		<td>11757</td>
+		<td>11757</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -313,7 +313,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td><a href="https://twitter.com/21Hafitz">21Hafitz</a></td>
 		<td>Kediri, Indonesia</td>
 		<td>217</td>
-		<td>5164</td>
+		<td>5165</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -565,7 +565,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>indonesia, bekasi city</td>
 		<td>2774</td>
-		<td>3432</td>
+		<td>3434</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -607,7 +607,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Bali, Indonesia</td>
 		<td>825</td>
-		<td>3132</td>
+		<td>3133</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -704,8 +704,8 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>Kita Aja Group </td>
 		<td><a href="https://twitter.com/aclaputra">aclaputra</a></td>
 		<td>Tangerang, North Java, Indonesia</td>
-		<td>1271</td>
-		<td>2906</td>
+		<td>1272</td>
+		<td>2907</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -929,7 +929,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>1175</td>
-		<td>2509</td>
+		<td>2512</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1111,7 +1111,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td><a href="https://twitter.com/elianiva_">elianiva_</a></td>
 		<td>Indonesia</td>
 		<td>1390</td>
-		<td>2184</td>
+		<td>2186</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1405,7 +1405,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td><a href="https://twitter.com/bandithijo">bandithijo</a></td>
 		<td>Balikpapan, Indonesia</td>
 		<td>934</td>
-		<td>1848</td>
+		<td>1850</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -3896,8 +3896,8 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>@prjkt-io </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>393</td>
-		<td>700</td>
+		<td>394</td>
+		<td>701</td>
 	</tr>
 	<tr>
 		<td>272</td>
@@ -4078,8 +4078,8 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>Zero One Group </td>
 		<td><a href="https://twitter.com/_mandaputtra">_mandaputtra</a></td>
 		<td>Yogyakarta, Indonesia</td>
-		<td>644</td>
 		<td>645</td>
+		<td>646</td>
 	</tr>
 	<tr>
 		<td>285</td>
@@ -4470,8 +4470,8 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fahmiirsyadk">fahmiirsyadk</a></td>
 		<td>Banyuwangi, Indonesia</td>
-		<td>249</td>
-		<td>573</td>
+		<td>250</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>313</td>
@@ -4652,8 +4652,8 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>Pt Langitpay Digital Indonesia<br/></td>
 		<td>No Twitter Username</td>
 		<td>Majalengka, Jawa Barat, Indonesia</td>
-		<td>544</td>
-		<td>544</td>
+		<td>545</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>326</td>
@@ -5563,7 +5563,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>indonesia</td>
 		<td>20</td>
-		<td>371</td>
+		<td>372</td>
 	</tr>
 	<tr>
 		<td>391</td>
@@ -11224,6 +11224,20 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 	<tr>
 		<td>795</td>
 		<td>
+			<a href="https://github.com/trianne24">
+				<img src="https://avatars.githubusercontent.com/u/22698262?s=72&u=6a59591fa2392e9e25ce88413f8cc60d9e06c5bd&v=4" width="24" alt="Avatar of trianne24"> trianne24
+			</a><br/>
+			Patricia Joanne
+		</td>
+		<td>Work Account: @patriciajoanne </td>
+		<td><a href="https://twitter.com/trianne24">trianne24</a></td>
+		<td>Jakarta, Indonesia</td>
+		<td>13</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>796</td>
+		<td>
 			<a href="https://github.com/zerofinding">
 				<img src="https://avatars.githubusercontent.com/u/71748685?s=72&u=e29fb89b780b56d15f06ff8e90136c8ea716b958&v=4" width="24" alt="Avatar of zerofinding"> zerofinding
 			</a><br/>
@@ -11236,7 +11250,7 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/zeeone-ofc">
 				<img src="https://avatars.githubusercontent.com/u/100220802?s=72&u=03c399e660a37a1f78416594c86f55790ef8393b&v=4" width="24" alt="Avatar of zeeone-ofc"> zeeone-ofc
@@ -11247,20 +11261,6 @@ There are `1000 users`  in Indonesia. You need at least `51 followers` to be on 
 		<td><a href="https://twitter.com/ZeeoneOfc">ZeeoneOfc</a></td>
 		<td>Sinjai, Sulawesi Selatan, Indonesia </td>
 		<td>17</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>797</td>
-		<td>
-			<a href="https://github.com/trianne24">
-				<img src="https://avatars.githubusercontent.com/u/22698262?s=72&u=6a59591fa2392e9e25ce88413f8cc60d9e06c5bd&v=4" width="24" alt="Avatar of trianne24"> trianne24
-			</a><br/>
-			Patricia Joanne
-		</td>
-		<td>Work Account: @patriciajoanne </td>
-		<td><a href="https://twitter.com/trianne24">trianne24</a></td>
-		<td>Jakarta, Indonesia</td>
-		<td>12</td>
 		<td>17</td>
 	</tr>
 	<tr>
