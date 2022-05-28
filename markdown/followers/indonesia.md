@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/5/28 4:41 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/5/28 5:32 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -1012,7 +1012,7 @@ There are `1000 users`  in Indonesia. You need at least `52 followers` to be on 
 		<td>@ruang-guru </td>
 		<td><a href="https://twitter.com/rifafauzi6_">rifafauzi6_</a></td>
 		<td>Jakarta</td>
-		<td>351</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1467,7 +1467,7 @@ There are `1000 users`  in Indonesia. You need at least `52 followers` to be on 
 		<td>Heaven Inc. </td>
 		<td><a href="https://twitter.com/fdciabdul">fdciabdul</a></td>
 		<td>Bogor , Indonesia</td>
-		<td>273</td>
+		<td>274</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -3318,6 +3318,19 @@ There are `1000 users`  in Indonesia. You need at least `52 followers` to be on 
 	<tr>
 		<td>248</td>
 		<td>
+			<a href="https://github.com/idindrakusuma">
+				<img src="https://avatars.githubusercontent.com/u/10141928?s=72&u=9f1d601da02177e8f782d41c771dea105c2fcab6&v=4" width="24" alt="Avatar of idindrakusuma"> idindrakusuma
+			</a><br/>
+			Indra Kusuma
+		</td>
+		<td>@tokopedia @invitato </td>
+		<td><a href="https://twitter.com/id_indrakusuma">id_indrakusuma</a></td>
+		<td>Jakarta, Indonesia</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
 			<a href="https://github.com/abdularis">
 				<img src="https://avatars.githubusercontent.com/u/22021261?s=72&u=c90b81355c09fac579644fc36aa6975f430c7cdd&v=4" width="24" alt="Avatar of abdularis"> abdularis
 			</a><br/>
@@ -3329,7 +3342,7 @@ There are `1000 users`  in Indonesia. You need at least `52 followers` to be on 
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/kmkurn">
 				<img src="https://avatars.githubusercontent.com/u/3627895?s=72&u=f4ab27ddd1c3c73560ec244e94a09c42384a8c6e&v=4" width="24" alt="Avatar of kmkurn"> kmkurn
@@ -3342,7 +3355,7 @@ There are `1000 users`  in Indonesia. You need at least `52 followers` to be on 
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/barunag">
 				<img src="https://avatars.githubusercontent.com/u/34024662?s=72&v=4" width="24" alt="Avatar of barunag"> barunag
@@ -3353,19 +3366,6 @@ There are `1000 users`  in Indonesia. You need at least `52 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>143</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/idindrakusuma">
-				<img src="https://avatars.githubusercontent.com/u/10141928?s=72&u=9f1d601da02177e8f782d41c771dea105c2fcab6&v=4" width="24" alt="Avatar of idindrakusuma"> idindrakusuma
-			</a><br/>
-			Indra Kusuma
-		</td>
-		<td>@tokopedia @invitato </td>
-		<td><a href="https://twitter.com/id_indrakusuma">id_indrakusuma</a></td>
-		<td>Jakarta, Indonesia</td>
-		<td>142</td>
 	</tr>
 	<tr>
 		<td>252</td>
