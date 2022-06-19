@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` by users in Indonesia on `2022/6/19 9:26 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` by users in Indonesia on `2022/6/19 10:28 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -128,7 +128,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>Heaven Inc. </td>
 		<td><a href="https://twitter.com/fdciabdul">fdciabdul</a></td>
 		<td>Bogor , Indonesia</td>
-		<td>21507</td>
+		<td>21515</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>@braincore-id </td>
 		<td><a href="https://twitter.com/algonacci">algonacci</a></td>
 		<td>Jakarta</td>
-		<td>13587</td>
+		<td>13589</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/rizkiudahvaksin">rizkiudahvaksin</a></td>
 		<td>Surabaya, ID</td>
-		<td>10577</td>
+		<td>10579</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -245,7 +245,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>@typescriptid @javascript-indonesi @angular-indonesia @a<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bandung, Jawa Barat</td>
-		<td>6799</td>
+		<td>6800</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -1155,7 +1155,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>@open-synergy @simetri-sinergi-id </td>
 		<td><a href="https://twitter.com/andhit_r">andhit_r</a></td>
 		<td>Bandung</td>
-		<td>1079</td>
+		<td>1080</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -2286,7 +2286,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>Pt Langitpay Digital Indonesia<br/></td>
 		<td>No Twitter Username</td>
 		<td>Majalengka, Jawa Barat, Indonesia</td>
-		<td>468</td>
+		<td>469</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2702,7 +2702,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>@prjkt-io </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>370</td>
+		<td>372</td>
 	</tr>
 	<tr>
 		<td>201</td>

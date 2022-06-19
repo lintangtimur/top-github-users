@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2022/6/19 9:26 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2022/6/19 10:28 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -388,7 +388,7 @@ There are `1000 users`  in Indonesia. You need at least `53 followers` to be on 
 		<td>Propaganda Team </td>
 		<td>No Twitter Username</td>
 		<td>Bali, Indonesia</td>
-		<td>767</td>
+		<td>766</td>
 	</tr>
 	<tr>
 		<td>23</td>
