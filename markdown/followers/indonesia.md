@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2023/11/1 4:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2023/11/1 5:22 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -1311,7 +1311,7 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>382</td>
+		<td>383</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -2746,6 +2746,19 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 	<tr>
 		<td>204</td>
 		<td>
+			<a href="https://github.com/MikeCodeur">
+				<img src="https://avatars.githubusercontent.com/u/595162?s=72&u=8b6cd38d8fe77662f0988b0d36e403375cfe4d9c&v=4" width="24" alt="Avatar of MikeCodeur"> MikeCodeur
+			</a><br/>
+			MikeCodeur
+		</td>
+		<td>Www.mikecodeur.com </td>
+		<td><a href="https://twitter.com/MikeCodeur">MikeCodeur</a></td>
+		<td>Bali, Canggu, Indonesia</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
 			<a href="https://github.com/irsyadadl">
 				<img src="https://avatars.githubusercontent.com/u/44585532?s=72&u=eabe43114775ab21ca76e07b4235daf841d2806c&v=4" width="24" alt="Avatar of irsyadadl"> irsyadadl
 			</a><br/>
@@ -2757,7 +2770,7 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 		<td>218</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/turtlepod">
 				<img src="https://avatars.githubusercontent.com/u/1705549?s=72&v=4" width="24" alt="Avatar of turtlepod"> turtlepod
@@ -2767,19 +2780,6 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 		<td>@10up  </td>
 		<td><a href="https://twitter.com/turtlepod">turtlepod</a></td>
 		<td>wp-admin, Indonesia</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/MikeCodeur">
-				<img src="https://avatars.githubusercontent.com/u/595162?s=72&u=8b6cd38d8fe77662f0988b0d36e403375cfe4d9c&v=4" width="24" alt="Avatar of MikeCodeur"> MikeCodeur
-			</a><br/>
-			MikeCodeur
-		</td>
-		<td>Www.mikecodeur.com </td>
-		<td><a href="https://twitter.com/MikeCodeur">MikeCodeur</a></td>
-		<td>Bali, Canggu, Indonesia</td>
 		<td>218</td>
 	</tr>
 	<tr>
@@ -3994,19 +3994,6 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 	<tr>
 		<td>300</td>
 		<td>
-			<a href="https://github.com/nadialvy">
-				<img src="https://avatars.githubusercontent.com/u/80080969?s=72&u=e07926c57262752f30a48a022711c03c3ada9585&v=4" width="24" alt="Avatar of nadialvy"> nadialvy
-			</a><br/>
-			Nadia Lovely
-		</td>
-		<td>Institut Teknologi Sepuluh Nopember<br/></td>
-		<td>No Twitter Username</td>
-		<td>Surabaya, Indonesia</td>
-		<td>163</td>
-	</tr>
-	<tr>
-		<td>301</td>
-		<td>
 			<a href="https://github.com/afnizarnur">
 				<img src="https://avatars.githubusercontent.com/u/4648648?s=72&v=4" width="24" alt="Avatar of afnizarnur"> afnizarnur
 			</a><br/>
@@ -4018,7 +4005,7 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/drawrs">
 				<img src="https://avatars.githubusercontent.com/u/17116508?s=72&u=eab6c9631768c18202e2f10103b50950819212c5&v=4" width="24" alt="Avatar of drawrs"> drawrs
@@ -4029,6 +4016,19 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>BSD - Tangerang, Indonesia</td>
 		<td>163</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/nadialvy">
+				<img src="https://avatars.githubusercontent.com/u/80080969?s=72&u=e07926c57262752f30a48a022711c03c3ada9585&v=4" width="24" alt="Avatar of nadialvy"> nadialvy
+			</a><br/>
+			Nadia Lovely
+		</td>
+		<td>Institut Teknologi Sepuluh Nopember<br/></td>
+		<td>No Twitter Username</td>
+		<td>Surabaya, Indonesia</td>
+		<td>162</td>
 	</tr>
 	<tr>
 		<td>303</td>
@@ -11274,19 +11274,6 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 	<tr>
 		<td>860</td>
 		<td>
-			<a href="https://github.com/ICT154">
-				<img src="https://avatars.githubusercontent.com/u/44914917?s=72&u=c3e64f89fde733597b597d5dee204ba2d81c7e6a&v=4" width="24" alt="Avatar of ICT154"> ICT154
-			</a><br/>
-			R4D3N G0Z4LL
-		</td>
-		<td>Lintas Data Piranti </td>
-		<td><a href="https://twitter.com/Raden_Gozal">Raden_Gozal</a></td>
-		<td>Indonesia</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>861</td>
-		<td>
 			<a href="https://github.com/dimaskiddo">
 				<img src="https://avatars.githubusercontent.com/u/21129987?s=72&u=db5d02c645915aba255a586f77b4a4d05e6b79bc&v=4" width="24" alt="Avatar of dimaskiddo"> dimaskiddo
 			</a><br/>
@@ -11295,6 +11282,19 @@ There are `985 users`  in Indonesia. You need at least `71 followers` to be on t
 		<td>Pt Telekomunikasi Indonesia </td>
 		<td>No Twitter Username</td>
 		<td>Bandung, Indonesia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>861</td>
+		<td>
+			<a href="https://github.com/ICT154">
+				<img src="https://avatars.githubusercontent.com/u/44914917?s=72&u=c3e64f89fde733597b597d5dee204ba2d81c7e6a&v=4" width="24" alt="Avatar of ICT154"> ICT154
+			</a><br/>
+			R4D3N G0Z4LL
+		</td>
+		<td>Lintas Data Piranti </td>
+		<td><a href="https://twitter.com/Raden_Gozal">Raden_Gozal</a></td>
+		<td>Indonesia</td>
 		<td>78</td>
 	</tr>
 	<tr>
