@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2023/12/3 9:21 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2023/12/3 10:22 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -193,7 +193,7 @@ There are `984 users`  in Indonesia. You need at least `72 followers` to be on t
 		<td>Xynexis </td>
 		<td><a href="https://twitter.com/infosecn1nja">infosecn1nja</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>2077</td>
+		<td>2078</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1298,7 +1298,7 @@ There are `984 users`  in Indonesia. You need at least `72 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kampung Wisata Basen, Kotagede, Yogyakarta Indonesia</td>
-		<td>387</td>
+		<td>388</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -4150,6 +4150,19 @@ There are `984 users`  in Indonesia. You need at least `72 followers` to be on t
 	<tr>
 		<td>312</td>
 		<td>
+			<a href="https://github.com/zeeoneofficial">
+				<img src="https://avatars.githubusercontent.com/u/92008777?s=72&u=00e9a4cf30bdb183179077a001582da4164fe150&v=4" width="24" alt="Avatar of zeeoneofficial"> zeeoneofficial
+			</a><br/>
+			Anonymous
+		</td>
+		<td>Zeeone Youtube Official </td>
+		<td><a href="https://twitter.com/zeeoneofc">zeeoneofc</a></td>
+		<td>Sinjai, Sulawesi Selatan, Indonesia </td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
 			<a href="https://github.com/drawrs">
 				<img src="https://avatars.githubusercontent.com/u/17116508?s=72&u=eab6c9631768c18202e2f10103b50950819212c5&v=4" width="24" alt="Avatar of drawrs"> drawrs
 			</a><br/>
@@ -4161,7 +4174,7 @@ There are `984 users`  in Indonesia. You need at least `72 followers` to be on t
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/helmisatria">
 				<img src="https://avatars.githubusercontent.com/u/15356855?s=72&u=c1c058e4c2f0ca7e6e91a84f996e601e314aded6&v=4" width="24" alt="Avatar of helmisatria"> helmisatria
@@ -4171,19 +4184,6 @@ There are `984 users`  in Indonesia. You need at least `72 followers` to be on t
 		<td>Indonesia's Govtech Education </td>
 		<td><a href="https://twitter.com/helmisatria_">helmisatria_</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/zeeoneofficial">
-				<img src="https://avatars.githubusercontent.com/u/92008777?s=72&u=00e9a4cf30bdb183179077a001582da4164fe150&v=4" width="24" alt="Avatar of zeeoneofficial"> zeeoneofficial
-			</a><br/>
-			Anonymous
-		</td>
-		<td>Zeeone Youtube Official </td>
-		<td><a href="https://twitter.com/zeeoneofc">zeeoneofc</a></td>
-		<td>Sinjai, Sulawesi Selatan, Indonesia </td>
 		<td>161</td>
 	</tr>
 	<tr>
