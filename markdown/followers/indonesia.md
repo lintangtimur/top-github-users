@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2024/2/18 7:23 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2024/2/18 8:26 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -141,7 +141,7 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 		<td>Cuy Universe ~ </td>
 		<td>No Twitter Username</td>
 		<td>Bandung, Indonesia</td>
-		<td>2618</td>
+		<td>2619</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -960,7 +960,7 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 		<td>Https://www.vodjo.co </td>
 		<td>No Twitter Username</td>
 		<td>Purwakarta, West Java, Indonesia.</td>
-		<td>496</td>
+		<td>495</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1285,7 +1285,7 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>411</td>
+		<td>410</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -3651,7 +3651,7 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 		<td>Politeknik Negeri Jakarta </td>
 		<td><a href="https://twitter.com/codepatr">codepatr</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>184</td>
+		<td>185</td>
 	</tr>
 	<tr>
 		<td>274</td>
@@ -10533,19 +10533,6 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 	<tr>
 		<td>803</td>
 		<td>
-			<a href="https://github.com/pushm0v">
-				<img src="https://avatars.githubusercontent.com/u/318238?s=72&u=d28a467d3bcef4fe3f90bb7c3443b72d63c08edf&v=4" width="24" alt="Avatar of pushm0v"> pushm0v
-			</a><br/>
-			Bherly Novrandy
-		</td>
-		<td>@kitabisa  </td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
-		<td>87</td>
-	</tr>
-	<tr>
-		<td>804</td>
-		<td>
 			<a href="https://github.com/rachmadzii">
 				<img src="https://avatars.githubusercontent.com/u/25424598?s=72&u=50bb73b246818f5767b0d7a882c1ec28b88e0e69&v=4" width="24" alt="Avatar of rachmadzii"> rachmadzii
 			</a><br/>
@@ -10554,6 +10541,19 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 		<td>Qollega </td>
 		<td><a href="https://twitter.com/rachmadzii">rachmadzii</a></td>
 		<td>Bekasi, Indonesia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>804</td>
+		<td>
+			<a href="https://github.com/pushm0v">
+				<img src="https://avatars.githubusercontent.com/u/318238?s=72&u=d28a467d3bcef4fe3f90bb7c3443b72d63c08edf&v=4" width="24" alt="Avatar of pushm0v"> pushm0v
+			</a><br/>
+			Bherly Novrandy
+		</td>
+		<td>@kitabisa  </td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
 		<td>87</td>
 	</tr>
 	<tr>
@@ -10780,19 +10780,6 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 	<tr>
 		<td>822</td>
 		<td>
-			<a href="https://github.com/sudhanshuraheja">
-				<img src="https://avatars.githubusercontent.com/u/27904?s=72&u=5b9a85f2fd4095b9f0dc219aa65e28d16c36c624&v=4" width="24" alt="Avatar of sudhanshuraheja"> sudhanshuraheja
-			</a><br/>
-			Sudhanshu Raheja
-		</td>
-		<td>@gopay </td>
-		<td><a href="https://twitter.com/sudhanshuraheja">sudhanshuraheja</a></td>
-		<td>Jakarta</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>823</td>
-		<td>
 			<a href="https://github.com/febryardiansyah">
 				<img src="https://avatars.githubusercontent.com/u/33514300?s=72&u=27c7ea6539a676e12f2f3927386cdabc22af4fa1&v=4" width="24" alt="Avatar of febryardiansyah"> febryardiansyah
 			</a><br/>
@@ -10801,6 +10788,19 @@ There are `978 users`  in Indonesia. You need at least `76 followers` to be on t
 		<td>@kaede-no-ki  </td>
 		<td>No Twitter Username</td>
 		<td>Purwokerto, Indonesia</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>823</td>
+		<td>
+			<a href="https://github.com/sudhanshuraheja">
+				<img src="https://avatars.githubusercontent.com/u/27904?s=72&u=5b9a85f2fd4095b9f0dc219aa65e28d16c36c624&v=4" width="24" alt="Avatar of sudhanshuraheja"> sudhanshuraheja
+			</a><br/>
+			Sudhanshu Raheja
+		</td>
+		<td>@gopay </td>
+		<td><a href="https://twitter.com/sudhanshuraheja">sudhanshuraheja</a></td>
+		<td>Jakarta</td>
 		<td>86</td>
 	</tr>
 	<tr>
