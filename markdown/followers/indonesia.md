@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2024/3/16 7:22 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2024/3/16 8:26 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -1519,7 +1519,7 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>366</td>
+		<td>367</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1571,7 +1571,7 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>General Corporation And Sub<br/>Corporation<br/>By<br/>General<br/>(hexaminate,<br/>Galaxeus,<br/>Etc)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>351</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1714,7 +1714,7 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>332</td>
+		<td>333</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -2057,6 +2057,19 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 	<tr>
 		<td>151</td>
 		<td>
+			<a href="https://github.com/hekelpro">
+				<img src="https://avatars.githubusercontent.com/u/62897038?s=72&u=bc07935917d517a685fd68c9a181aca24e417dd7&v=4" width="24" alt="Avatar of hekelpro"> hekelpro
+			</a><br/>
+			Riski Darmawan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>INDONESIA</td>
+		<td>295</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
 			<a href="https://github.com/faisalman">
 				<img src="https://avatars.githubusercontent.com/u/460302?s=72&v=4" width="24" alt="Avatar of faisalman"> faisalman
 			</a><br/>
@@ -2068,7 +2081,7 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>294</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/AyraHikari">
 				<img src="https://avatars.githubusercontent.com/u/36266025?s=72&u=d5d3c40cfce713d51e482d799557ac30ff62825e&v=4" width="24" alt="Avatar of AyraHikari"> AyraHikari
@@ -2078,19 +2091,6 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>@nusantaradevs </td>
 		<td><a href="https://twitter.com/Ayra_Hikari">Ayra_Hikari</a></td>
 		<td>Indonesia</td>
-		<td>294</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/hekelpro">
-				<img src="https://avatars.githubusercontent.com/u/62897038?s=72&u=bc07935917d517a685fd68c9a181aca24e417dd7&v=4" width="24" alt="Avatar of hekelpro"> hekelpro
-			</a><br/>
-			Riski Darmawan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>INDONESIA</td>
 		<td>294</td>
 	</tr>
 	<tr>
@@ -3396,6 +3396,19 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 	<tr>
 		<td>254</td>
 		<td>
+			<a href="https://github.com/AUTOMEXA">
+				<img src="https://avatars.githubusercontent.com/u/157979111?s=72&u=9a271e3948f8d4e1988d2897e2867e55273b0ecf&v=4" width="24" alt="Avatar of AUTOMEXA"> AUTOMEXA
+			</a><br/>
+			AUTOMEXA
+		</td>
+		<td>General Corporation </td>
+		<td>No Twitter Username</td>
+		<td>INDONESIA - SURABAYA</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
 			<a href="https://github.com/abdilahrf">
 				<img src="https://avatars.githubusercontent.com/u/6015012?s=72&u=404e722a17681f8a3f2eb6cb6b2da4828ff06a2c&v=4" width="24" alt="Avatar of abdilahrf"> abdilahrf
 			</a><br/>
@@ -3407,7 +3420,7 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/gedex">
 				<img src="https://avatars.githubusercontent.com/u/78313?s=72&v=4" width="24" alt="Avatar of gedex"> gedex
@@ -3417,19 +3430,6 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>200</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/AUTOMEXA">
-				<img src="https://avatars.githubusercontent.com/u/157979111?s=72&u=9a271e3948f8d4e1988d2897e2867e55273b0ecf&v=4" width="24" alt="Avatar of AUTOMEXA"> AUTOMEXA
-			</a><br/>
-			AUTOMEXA
-		</td>
-		<td>General Corporation </td>
-		<td>No Twitter Username</td>
-		<td>INDONESIA - SURABAYA</td>
 		<td>200</td>
 	</tr>
 	<tr>
@@ -3443,7 +3443,7 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>@tokopedia </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>199</td>
+		<td>200</td>
 	</tr>
 	<tr>
 		<td>258</td>
@@ -4904,6 +4904,19 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 	<tr>
 		<td>370</td>
 		<td>
+			<a href="https://github.com/kapten-kaizo">
+				<img src="https://avatars.githubusercontent.com/u/73789857?s=72&u=7e93f4ea3c236bb703def97e10f20c58c7ee45df&v=4" width="24" alt="Avatar of kapten-kaizo"> kapten-kaizo
+			</a><br/>
+			KY >_<
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
 			<a href="https://github.com/Aldi098">
 				<img src="https://avatars.githubusercontent.com/u/89829276?s=72&u=8737017a56e0b21447d2c7ec0fba377353aa5166&v=4" width="24" alt="Avatar of Aldi098"> Aldi098
 			</a><br/>
@@ -4915,7 +4928,7 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/edwin">
 				<img src="https://avatars.githubusercontent.com/u/1367886?s=72&u=bf95271ba624515ca7ad944b44979c07786bde7c&v=4" width="24" alt="Avatar of edwin"> edwin
@@ -4925,19 +4938,6 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>@baculsoft @redhatofficial </td>
 		<td>No Twitter Username</td>
 		<td>Jakarta, ID</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/kapten-kaizo">
-				<img src="https://avatars.githubusercontent.com/u/73789857?s=72&u=7e93f4ea3c236bb703def97e10f20c58c7ee45df&v=4" width="24" alt="Avatar of kapten-kaizo"> kapten-kaizo
-			</a><br/>
-			KY >_<
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
 		<td>150</td>
 	</tr>
 	<tr>
@@ -12418,19 +12418,6 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 	<tr>
 		<td>948</td>
 		<td>
-			<a href="https://github.com/ampersanda">
-				<img src="https://avatars.githubusercontent.com/u/13579812?s=72&u=39e2c4ccc2357b6ab6fd6e07340a2e9fc581d924&v=4" width="24" alt="Avatar of ampersanda"> ampersanda
-			</a><br/>
-			Ampersanda
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ampersanda">ampersanda</a></td>
-		<td>Surabaya</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>949</td>
-		<td>
 			<a href="https://github.com/elvinafirmansyah">
 				<img src="https://avatars.githubusercontent.com/u/85095985?s=72&u=8abc548b5eb99be3c3b90651fa23923b1b565bd6&v=4" width="24" alt="Avatar of elvinafirmansyah"> elvinafirmansyah
 			</a><br/>
@@ -12439,6 +12426,19 @@ There are `976 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/elvina_one">elvina_one</a></td>
 		<td>Palembang, Indonesia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>949</td>
+		<td>
+			<a href="https://github.com/ampersanda">
+				<img src="https://avatars.githubusercontent.com/u/13579812?s=72&u=39e2c4ccc2357b6ab6fd6e07340a2e9fc581d924&v=4" width="24" alt="Avatar of ampersanda"> ampersanda
+			</a><br/>
+			Ampersanda
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ampersanda">ampersanda</a></td>
+		<td>Surabaya</td>
 		<td>78</td>
 	</tr>
 	<tr>
