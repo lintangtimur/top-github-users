@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` by users in Indonesia on `2024/4/3 5:22 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` by users in Indonesia on `2024/4/3 6:28 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -141,7 +141,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Heaven Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Bogor , Indonesia</td>
-		<td>93211</td>
+		<td>93228</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>@qnetics, @rq-21-engineer </td>
 		<td><a href="https://twitter.com/FariqyAl">FariqyAl</a></td>
 		<td>East Jakarta, Indonesia.</td>
-		<td>43556</td>
+		<td>43574</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -193,7 +193,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>@firstplato  </td>
 		<td><a href="https://twitter.com/firstplato">firstplato</a></td>
 		<td>61256 Sidoarjo, East Java, Indonesia</td>
-		<td>16782</td>
+		<td>16784</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -258,7 +258,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jakarta</td>
-		<td>7481</td>
+		<td>7482</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Herzarika </td>
 		<td><a href="https://twitter.com/Herzarika">Herzarika</a></td>
 		<td>Indonesia</td>
-		<td>6220</td>
+		<td>6222</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -323,7 +323,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>3515</td>
+		<td>3516</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -375,7 +375,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>@jakartaresearch </td>
 		<td>No Twitter Username</td>
 		<td>Jakarta, Indonesia</td>
-		<td>2970</td>
+		<td>2976</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,7 +388,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Digital Engineering </td>
 		<td><a href="https://twitter.com/fajardotpsd">fajardotpsd</a></td>
 		<td>Bogor, Indonesia</td>
-		<td>2946</td>
+		<td>2948</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -466,7 +466,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Universitas Amikom Yogyakarta </td>
 		<td>No Twitter Username</td>
 		<td>Yogyakarta, Indonesia</td>
-		<td>1977</td>
+		<td>1979</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>@torchbox </td>
 		<td><a href="https://twitter.com/laymonage">laymonage</a></td>
 		<td>Bristol–Jakarta</td>
-		<td>1951</td>
+		<td>1952</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -505,7 +505,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Weekend, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Jakarta, Indonesia</td>
-		<td>1863</td>
+		<td>1864</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -596,7 +596,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Kamshory Developer </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>1554</td>
+		<td>1555</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -700,7 +700,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Govtech Edu </td>
 		<td><a href="https://twitter.com/Maz_Ipan">Maz_Ipan</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>1384</td>
+		<td>1385</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -778,7 +778,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Freelancer & Student </td>
 		<td><a href="https://twitter.com/assesddef">assesddef</a></td>
 		<td>Palembang, Sumatera Selatan</td>
-		<td>1254</td>
+		<td>1258</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -809,19 +809,6 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/kokizzu">
-				<img src="https://avatars.githubusercontent.com/u/1061610?s=72&u=5ba2894f802c655a1b43ce28d9668bbe8240bbc7&v=4" width="24" alt="Avatar of kokizzu"> kokizzu
-			</a><br/>
-			Kiswono Prayogo
-		</td>
-		<td>Remote Programmer </td>
-		<td>No Twitter Username</td>
-		<td>Bali, Indonesia</td>
-		<td>1200</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/reacto11mecha">
 				<img src="https://avatars.githubusercontent.com/u/48118327?s=72&u=aa8904bf3896c74f560053ca89696cf148c4f558&v=4" width="24" alt="Avatar of reacto11mecha"> reacto11mecha
 			</a><br/>
@@ -830,6 +817,19 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/reacto_mecha">reacto_mecha</a></td>
 		<td>Bekasi, Indonesia</td>
+		<td>1201</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/kokizzu">
+				<img src="https://avatars.githubusercontent.com/u/1061610?s=72&u=5ba2894f802c655a1b43ce28d9668bbe8240bbc7&v=4" width="24" alt="Avatar of kokizzu"> kokizzu
+			</a><br/>
+			Kiswono Prayogo
+		</td>
+		<td>Remote Programmer </td>
+		<td>No Twitter Username</td>
+		<td>Bali, Indonesia</td>
 		<td>1200</td>
 	</tr>
 	<tr>
@@ -999,7 +999,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>Student </td>
 		<td><a href="https://twitter.com/gidhanba">gidhanba</a></td>
 		<td>Central Java, Indonesia</td>
-		<td>1044</td>
+		<td>1045</td>
 	</tr>
 	<tr>
 		<td>70</td>
