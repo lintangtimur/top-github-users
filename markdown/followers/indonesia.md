@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2024/4/11 8:25 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2024/4/11 9:23 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -2117,7 +2117,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>288</td>
+		<td>289</td>
 	</tr>
 	<tr>
 		<td>156</td>
@@ -2902,6 +2902,19 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 	<tr>
 		<td>216</td>
 		<td>
+			<a href="https://github.com/SeptiawanAjiP">
+				<img src="https://avatars.githubusercontent.com/u/15824117?s=72&u=87630d9adcf5d1383d9a9b814a972937ea4719c1&v=4" width="24" alt="Avatar of SeptiawanAjiP"> SeptiawanAjiP
+			</a><br/>
+			Septiawan Aji Pradana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
 			<a href="https://github.com/AUTOMEXA">
 				<img src="https://avatars.githubusercontent.com/u/157979111?s=72&u=9a271e3948f8d4e1988d2897e2867e55273b0ecf&v=4" width="24" alt="Avatar of AUTOMEXA"> AUTOMEXA
 			</a><br/>
@@ -2913,7 +2926,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/Zusyaku">
 				<img src="https://avatars.githubusercontent.com/u/71582475?s=72&u=089b62472c92189968bec46df1068f00ef4cd667&v=4" width="24" alt="Avatar of Zusyaku"> Zusyaku
@@ -2926,7 +2939,7 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/ccrsxx">
 				<img src="https://avatars.githubusercontent.com/u/55032197?s=72&u=d610773f5869d33790b207f4007aabab296407a9&v=4" width="24" alt="Avatar of ccrsxx"> ccrsxx
@@ -2936,19 +2949,6 @@ There are `975 users`  in Indonesia. You need at least `77 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ccrsxx">ccrsxx</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>220</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/SeptiawanAjiP">
-				<img src="https://avatars.githubusercontent.com/u/15824117?s=72&u=87630d9adcf5d1383d9a9b814a972937ea4719c1&v=4" width="24" alt="Avatar of SeptiawanAjiP"> SeptiawanAjiP
-			</a><br/>
-			Septiawan Aji Pradana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
 		<td>220</td>
 	</tr>
 	<tr>
