@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` by users in Indonesia on `2024/5/16 9:24 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` by users in Indonesia on `2024/5/16 10:25 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -141,7 +141,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>@imtaqin @tegal1337  </td>
 		<td>No Twitter Username</td>
 		<td>Bogor , Indonesia</td>
-		<td>98083</td>
+		<td>98098</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>@qnetics, @rq-21-engineer </td>
 		<td><a href="https://twitter.com/FariqyAl">FariqyAl</a></td>
 		<td>East Jakarta, Indonesia.</td>
-		<td>43536</td>
+		<td>43555</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -193,7 +193,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>@firstplato  </td>
 		<td><a href="https://twitter.com/firstplato">firstplato</a></td>
 		<td>61256 Sidoarjo, East Java, Indonesia</td>
-		<td>16993</td>
+		<td>16995</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -258,7 +258,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>Herzarika </td>
 		<td><a href="https://twitter.com/Herzarika">Herzarika</a></td>
 		<td>Indonesia</td>
-		<td>8088</td>
+		<td>8090</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -843,7 +843,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>State Polytechnic Of Malang<br/></td>
 		<td><a href="https://twitter.com/elianiva_">elianiva_</a></td>
 		<td>Indonesia</td>
-		<td>1170</td>
+		<td>1172</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -882,7 +882,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>Universitas Telkom </td>
 		<td>No Twitter Username</td>
 		<td>Bandung</td>
-		<td>1139</td>
+		<td>1140</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1017,6 +1017,19 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/fzn0x">
+				<img src="https://avatars.githubusercontent.com/u/50759463?s=72&u=eead5d6b71583dafac69ee662fa5b0c46e1a84fd&v=4" width="24" alt="Avatar of fzn0x"> fzn0x
+			</a><br/>
+			fzn0x
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fzn0x">fzn0x</a></td>
+		<td>Indonesia</td>
+		<td>986</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/yehezkieldio">
 				<img src="https://avatars.githubusercontent.com/u/47420407?s=72&u=fec2627949e692008a64dc84db35f8fc16c20058&v=4" width="24" alt="Avatar of yehezkieldio"> yehezkieldio
 			</a><br/>
@@ -1026,19 +1039,6 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td><a href="https://twitter.com/yhezkieldio">yhezkieldio</a></td>
 		<td>Balikpapan, Indonesia</td>
 		<td>985</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/fzn0x">
-				<img src="https://avatars.githubusercontent.com/u/50759463?s=72&u=eead5d6b71583dafac69ee662fa5b0c46e1a84fd&v=4" width="24" alt="Avatar of fzn0x"> fzn0x
-			</a><br/>
-			fzn0x
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fzn0x">fzn0x</a></td>
-		<td>Indonesia</td>
-		<td>984</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1771,6 +1771,19 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 	<tr>
 		<td>129</td>
 		<td>
+			<a href="https://github.com/ramiqcom">
+				<img src="https://avatars.githubusercontent.com/u/70449155?s=72&u=dffcd0193948b144eedc994bdafefa569a815b4e&v=4" width="24" alt="Avatar of ramiqcom"> ramiqcom
+			</a><br/>
+			Ramadhan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ramiqcom">ramiqcom</a></td>
+		<td>Jakarta</td>
+		<td>502</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
 			<a href="https://github.com/willnode">
 				<img src="https://avatars.githubusercontent.com/u/20214420?s=72&u=d4e1dcd2babd811efa7a3f3dbbd1cbefaf270fb8&v=4" width="24" alt="Avatar of willnode"> willnode
 			</a><br/>
@@ -1782,7 +1795,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>501</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/Alvalens">
 				<img src="https://avatars.githubusercontent.com/u/109880628?s=72&u=545f96aed7790722bad32361a523b5e1cfa69295&v=4" width="24" alt="Avatar of Alvalens"> Alvalens
@@ -1793,19 +1806,6 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>500</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/ramiqcom">
-				<img src="https://avatars.githubusercontent.com/u/70449155?s=72&u=dffcd0193948b144eedc994bdafefa569a815b4e&v=4" width="24" alt="Avatar of ramiqcom"> ramiqcom
-			</a><br/>
-			Ramadhan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ramiqcom">ramiqcom</a></td>
-		<td>Jakarta</td>
-		<td>499</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -2044,6 +2044,19 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 	<tr>
 		<td>150</td>
 		<td>
+			<a href="https://github.com/Adithya-13">
+				<img src="https://avatars.githubusercontent.com/u/62298956?s=72&u=02c0987042c9980b5ac97cd0521c5e49b094e553&v=4" width="24" alt="Avatar of Adithya-13"> Adithya-13
+			</a><br/>
+			Adithya Firmansyah Putra
+		</td>
+		<td>@zero-one-group  </td>
+		<td>No Twitter Username</td>
+		<td>Majalengka, Jawa Barat, Indonesia</td>
+		<td>432</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
 			<a href="https://github.com/AUTOMEXA">
 				<img src="https://avatars.githubusercontent.com/u/157979111?s=72&u=9a271e3948f8d4e1988d2897e2867e55273b0ecf&v=4" width="24" alt="Avatar of AUTOMEXA"> AUTOMEXA
 			</a><br/>
@@ -2055,7 +2068,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>431</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/adeyahya">
 				<img src="https://avatars.githubusercontent.com/u/10051243?s=72&u=3aa7f281d29b6e45de07ada6cbed0949dc68de16&v=4" width="24" alt="Avatar of adeyahya"> adeyahya
@@ -2065,19 +2078,6 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Probolinggo, East Java, Indonesia</td>
-		<td>431</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/Adithya-13">
-				<img src="https://avatars.githubusercontent.com/u/62298956?s=72&u=02c0987042c9980b5ac97cd0521c5e49b094e553&v=4" width="24" alt="Avatar of Adithya-13"> Adithya-13
-			</a><br/>
-			Adithya Firmansyah Putra
-		</td>
-		<td>@zero-one-group  </td>
-		<td>No Twitter Username</td>
-		<td>Majalengka, Jawa Barat, Indonesia</td>
 		<td>431</td>
 	</tr>
 	<tr>
@@ -2863,6 +2863,19 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 	<tr>
 		<td>213</td>
 		<td>
+			<a href="https://github.com/gvoze32">
+				<img src="https://avatars.githubusercontent.com/u/28755051?s=72&u=b1cdf8121874d8ea279f1cab85ec983fa08b06f3&v=4" width="24" alt="Avatar of gvoze32"> gvoze32
+			</a><br/>
+			Syafa Adena
+		</td>
+		<td>Hobbyist </td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
+		<td>291</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
 			<a href="https://github.com/albirrkarim">
 				<img src="https://avatars.githubusercontent.com/u/29292018?s=72&u=4ce95317755ffebce434e95481a669a2dd027b23&v=4" width="24" alt="Avatar of albirrkarim"> albirrkarim
 			</a><br/>
@@ -2872,19 +2885,6 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td><a href="https://twitter.com/albirrkarim">albirrkarim</a></td>
 		<td>Semarang, Indonesia</td>
 		<td>290</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
-			<a href="https://github.com/gvoze32">
-				<img src="https://avatars.githubusercontent.com/u/28755051?s=72&u=b1cdf8121874d8ea279f1cab85ec983fa08b06f3&v=4" width="24" alt="Avatar of gvoze32"> gvoze32
-			</a><br/>
-			Syafa Adena
-		</td>
-		<td>Hobbyist </td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
-		<td>289</td>
 	</tr>
 	<tr>
 		<td>215</td>
@@ -2988,7 +2988,7 @@ There are `974 users`  in Indonesia. You need at least `78 followers` to be on t
 		<td>Btw Edutech </td>
 		<td>No Twitter Username</td>
 		<td>Bali, Indonesia</td>
-		<td>267</td>
+		<td>268</td>
 	</tr>
 	<tr>
 		<td>223</td>
