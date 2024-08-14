@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` by users in Indonesia on `2024/8/14 3:28 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` by users in Indonesia on `2024/8/14 4:34 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -128,7 +128,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@imtaqin @tegal1337  </td>
 		<td>No Twitter Username</td>
 		<td>Bogor , Indonesia</td>
-		<td>113108</td>
+		<td>113122</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -193,7 +193,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@firstplato  </td>
 		<td><a href="https://twitter.com/firstplato">firstplato</a></td>
 		<td>61256 Sidoarjo, East Java, Indonesia</td>
-		<td>16922</td>
+		<td>16924</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/officialputuid">officialputuid</a></td>
 		<td>Bali, Indonesia</td>
-		<td>16585</td>
+		<td>16586</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>Herzarika </td>
 		<td><a href="https://twitter.com/Herzarika">Herzarika</a></td>
 		<td>Indonesia</td>
-		<td>11989</td>
+		<td>11991</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@lumina-inc </td>
 		<td><a href="https://twitter.com/_threeal">_threeal</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>10441</td>
+		<td>10446</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jakarta</td>
-		<td>7534</td>
+		<td>7535</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,7 +284,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@jakartaresearch </td>
 		<td>No Twitter Username</td>
 		<td>Jakarta, Indonesia</td>
-		<td>4157</td>
+		<td>4158</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -557,7 +557,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>Weekend, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Jakarta, Indonesia</td>
-		<td>1858</td>
+		<td>1859</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -830,7 +830,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@projectdiscovery </td>
 		<td><a href="https://twitter.com/dwisiswant0">dwisiswant0</a></td>
 		<td>Jakarta, Indonesia</td>
-		<td>1126</td>
+		<td>1128</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1233,7 +1233,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/wintantawi">wintantawi</a></td>
 		<td>Medan, Indonesia</td>
-		<td>757</td>
+		<td>764</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -2988,7 +2988,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>273</td>
+		<td>274</td>
 	</tr>
 	<tr>
 		<td>223</td>
@@ -3794,7 +3794,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@imphnen  </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>198</td>
+		<td>199</td>
 	</tr>
 	<tr>
 		<td>285</td>
@@ -6984,6 +6984,19 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 	<tr>
 		<td>530</td>
 		<td>
+			<a href="https://github.com/empeje">
+				<img src="https://avatars.githubusercontent.com/u/11813607?s=72&u=e41365bb29e6ec9d69676770b1f919c5b7860014&v=4" width="24" alt="Avatar of empeje"> empeje
+			</a><br/>
+			Abdurrachman M
+		</td>
+		<td>@picnicsupermarket </td>
+		<td><a href="https://twitter.com/YoKulGuy">YoKulGuy</a></td>
+		<td>The Netherlands | Indonesia  | Nomad</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
 			<a href="https://github.com/andregans">
 				<img src="https://avatars.githubusercontent.com/u/72931786?s=72&u=7cc074575047e8b94b251fdff5eff5c3ee66a7ba&v=4" width="24" alt="Avatar of andregans"> andregans
 			</a><br/>
@@ -6995,7 +7008,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/fajrulfx">
 				<img src="https://avatars.githubusercontent.com/u/21325927?s=72&u=23e3873e37b4f8d49578ee03fb01f07323583339&v=4" width="24" alt="Avatar of fajrulfx"> fajrulfx
@@ -7008,7 +7021,7 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/Nurutomo">
 				<img src="https://avatars.githubusercontent.com/u/18616827?s=72&u=11213657ae049bbcf75f40ea18f6b9e593a63a19&v=4" width="24" alt="Avatar of Nurutomo"> Nurutomo
@@ -7018,19 +7031,6 @@ There are `971 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nurutomo_20">nurutomo_20</a></td>
 		<td>Mojokerto, Indonesia</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>533</td>
-		<td>
-			<a href="https://github.com/empeje">
-				<img src="https://avatars.githubusercontent.com/u/11813607?s=72&u=e41365bb29e6ec9d69676770b1f919c5b7860014&v=4" width="24" alt="Avatar of empeje"> empeje
-			</a><br/>
-			Abdurrachman M
-		</td>
-		<td>@picnicsupermarket </td>
-		<td><a href="https://twitter.com/YoKulGuy">YoKulGuy</a></td>
-		<td>The Netherlands | Indonesia  | Nomad</td>
 		<td>47</td>
 	</tr>
 	<tr>
