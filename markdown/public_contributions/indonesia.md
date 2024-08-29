@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` by users in Indonesia on `2024/8/29 7:24 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` by users in Indonesia on `2024/8/29 8:28 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -128,7 +128,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@imtaqin @tegal1337  </td>
 		<td>No Twitter Username</td>
 		<td>Bogor , Indonesia</td>
-		<td>116138</td>
+		<td>116154</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -193,7 +193,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@firstplato  </td>
 		<td><a href="https://twitter.com/firstplato">firstplato</a></td>
 		<td>61256 Sidoarjo, East Java, Indonesia</td>
-		<td>16962</td>
+		<td>16964</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/officialputuid">officialputuid</a></td>
 		<td>Bali, Indonesia</td>
-		<td>16460</td>
+		<td>16461</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>Herzarika </td>
 		<td><a href="https://twitter.com/Herzarika">Herzarika</a></td>
 		<td>Indonesia</td>
-		<td>12643</td>
+		<td>12645</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jakarta</td>
-		<td>7556</td>
+		<td>7557</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,7 +284,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>@jakartaresearch </td>
 		<td>No Twitter Username</td>
 		<td>Jakarta, Indonesia</td>
-		<td>4245</td>
+		<td>4246</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -336,7 +336,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>Sitrun Technologies </td>
 		<td><a href="https://twitter.com/samsonasik">samsonasik</a></td>
 		<td>Bandung, Indonesia</td>
-		<td>3263</td>
+		<td>3265</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -947,7 +947,7 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>Jasa Marga Toll Operator<br/></td>
 		<td><a href="https://twitter.com/amarullz">amarullz</a></td>
 		<td>Indonesia</td>
-		<td>1001</td>
+		<td>1004</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -2200,19 +2200,6 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 	<tr>
 		<td>162</td>
 		<td>
-			<a href="https://github.com/freedomofkeima">
-				<img src="https://avatars.githubusercontent.com/u/2115470?s=72&u=07a1f2601d63bb6f31ffe605430c469a50b2bf0b&v=4" width="24" alt="Avatar of freedomofkeima"> freedomofkeima
-			</a><br/>
-			Iskandar Setiadi
-		</td>
-		<td>Hennge, K.k. (hde, Inc.)<br/></td>
-		<td><a href="https://twitter.com/freedom_holicx">freedom_holicx</a></td>
-		<td>Japan, Indonesia</td>
-		<td>397</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
 			<a href="https://github.com/Aslam97">
 				<img src="https://avatars.githubusercontent.com/u/25027592?s=72&u=d70f0d7d1afc4e513b43805097e635be10d7711a&v=4" width="24" alt="Avatar of Aslam97"> Aslam97
 			</a><br/>
@@ -2221,6 +2208,19 @@ There are `970 users`  in Indonesia. You need at least `83 followers` to be on t
 		<td>Full-stack Web Developer </td>
 		<td><a href="https://twitter.com/__asuramus">__asuramus</a></td>
 		<td>Bandung, Jawa Barat, Indonesia</td>
+		<td>399</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/freedomofkeima">
+				<img src="https://avatars.githubusercontent.com/u/2115470?s=72&u=07a1f2601d63bb6f31ffe605430c469a50b2bf0b&v=4" width="24" alt="Avatar of freedomofkeima"> freedomofkeima
+			</a><br/>
+			Iskandar Setiadi
+		</td>
+		<td>Hennge, K.k. (hde, Inc.)<br/></td>
+		<td><a href="https://twitter.com/freedom_holicx">freedom_holicx</a></td>
+		<td>Japan, Indonesia</td>
 		<td>397</td>
 	</tr>
 	<tr>
