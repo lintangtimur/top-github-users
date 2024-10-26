@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2024/10/26 1:45 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2024/10/26 2:57 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -115,7 +115,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>Pasundan University Bandung </td>
 		<td><a href="https://twitter.com/sandhikagalih">sandhikagalih</a></td>
 		<td>Indonesia</td>
-		<td>15849</td>
+		<td>15850</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1896,7 +1896,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>336</td>
+		<td>337</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2018,6 +2018,19 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/Risyandi">
+				<img src="https://avatars.githubusercontent.com/u/9608161?s=72&u=bd63b51b91f9f4007fff34d81a32afb446b6291e&v=4" width="24" alt="Avatar of Risyandi"> Risyandi
+			</a><br/>
+			Risyandi
+		</td>
+		<td>@ngarsa-digital </td>
+		<td><a href="https://twitter.com/risyandi94">risyandi94</a></td>
+		<td>Jatinangor,  Indonesia</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/oryxtoken">
 				<img src="https://avatars.githubusercontent.com/u/48744664?s=72&u=0c184141af52e4c9bf0af8d8913c34f41bb0929e&v=4" width="24" alt="Avatar of oryxtoken"> oryxtoken
 			</a><br/>
@@ -2027,19 +2040,6 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td><a href="https://twitter.com/oryx_project">oryx_project</a></td>
 		<td>Indonesia</td>
 		<td>320</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/Risyandi">
-				<img src="https://avatars.githubusercontent.com/u/9608161?s=72&u=bd63b51b91f9f4007fff34d81a32afb446b6291e&v=4" width="24" alt="Avatar of Risyandi"> Risyandi
-			</a><br/>
-			Risyandi
-		</td>
-		<td>@ngarsa-digital </td>
-		<td><a href="https://twitter.com/risyandi94">risyandi94</a></td>
-		<td>Jatinangor,  Indonesia</td>
-		<td>319</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -3110,19 +3110,6 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 	<tr>
 		<td>232</td>
 		<td>
-			<a href="https://github.com/MadeBaruna">
-				<img src="https://avatars.githubusercontent.com/u/2796366?s=72&u=0ff46c8cf6025d0c8ad755ba5cc01ff586c03ec7&v=4" width="24" alt="Avatar of MadeBaruna"> MadeBaruna
-			</a><br/>
-			Made Baruna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>233</td>
-		<td>
 			<a href="https://github.com/BOY-H4MZ4H">
 				<img src="https://avatars.githubusercontent.com/u/88397313?s=72&u=54fc4e10f05ec298f68d238366075c4c8ebf480b&v=4" width="24" alt="Avatar of BOY-H4MZ4H"> BOY-H4MZ4H
 			</a><br/>
@@ -3130,6 +3117,19 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		</td>
 		<td>@xnscode </td>
 		<td><a href="https://twitter.com/Hamzah_kirana1">Hamzah_kirana1</a></td>
+		<td>Indonesia</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/MadeBaruna">
+				<img src="https://avatars.githubusercontent.com/u/2796366?s=72&u=0ff46c8cf6025d0c8ad755ba5cc01ff586c03ec7&v=4" width="24" alt="Avatar of MadeBaruna"> MadeBaruna
+			</a><br/>
+			Made Baruna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>234</td>
 	</tr>
@@ -5424,6 +5424,19 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 	<tr>
 		<td>410</td>
 		<td>
+			<a href="https://github.com/idstck">
+				<img src="https://avatars.githubusercontent.com/u/33785863?s=72&u=d8d490058ddb3094a1ae9fc98ea8d189d14bb1d2&v=4" width="24" alt="Avatar of idstck"> idstck
+			</a><br/>
+			IDStack
+		</td>
+		<td>Idstack </td>
+		<td>No Twitter Username</td>
+		<td>Cirebon, Indonesia.</td>
+		<td>156</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
 			<a href="https://github.com/fahreziadh">
 				<img src="https://avatars.githubusercontent.com/u/20290953?s=72&u=b71993e09a653a3b938ec4b81ba5e46f811036fc&v=4" width="24" alt="Avatar of fahreziadh"> fahreziadh
 			</a><br/>
@@ -5435,7 +5448,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/andylibrian">
 				<img src="https://avatars.githubusercontent.com/u/1214976?s=72&u=6440e0c016f6eda1ab4d5dd865f67035cc371d6d&v=4" width="24" alt="Avatar of andylibrian"> andylibrian
@@ -5448,7 +5461,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/Aclaputra">
 				<img src="https://avatars.githubusercontent.com/u/67270918?s=72&u=fb4b7f7cff0210184e1f2e7f09f32d3d7c142fed&v=4" width="24" alt="Avatar of Aclaputra"> Aclaputra
@@ -5461,7 +5474,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/ebetap">
 				<img src="https://avatars.githubusercontent.com/u/16217843?s=72&u=62a8978385c68468bc864d38110d6039d4a32fff&v=4" width="24" alt="Avatar of ebetap"> ebetap
@@ -5474,7 +5487,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/Amrsatrio">
 				<img src="https://avatars.githubusercontent.com/u/20662640?s=72&v=4" width="24" alt="Avatar of Amrsatrio"> Amrsatrio
@@ -5487,7 +5500,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/nikkoenggaliano">
 				<img src="https://avatars.githubusercontent.com/u/37658579?s=72&u=3e3ef40cac82cfbf3dcccda81f1086a10f1f39e2&v=4" width="24" alt="Avatar of nikkoenggaliano"> nikkoenggaliano
@@ -5500,7 +5513,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/kapten-kaizo">
 				<img src="https://avatars.githubusercontent.com/u/73789857?s=72&u=7e93f4ea3c236bb703def97e10f20c58c7ee45df&v=4" width="24" alt="Avatar of kapten-kaizo"> kapten-kaizo
@@ -5513,7 +5526,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/MaulanaRyM">
 				<img src="https://avatars.githubusercontent.com/u/48519667?s=72&u=b43df4a2e2d119af2daf18365aa6380113ba8d24&v=4" width="24" alt="Avatar of MaulanaRyM"> MaulanaRyM
@@ -5523,19 +5536,6 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>Army Cyber Network </td>
 		<td><a href="https://twitter.com/GratisanUser">GratisanUser</a></td>
 		<td>Indonesia</td>
-		<td>155</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/idstck">
-				<img src="https://avatars.githubusercontent.com/u/33785863?s=72&u=d8d490058ddb3094a1ae9fc98ea8d189d14bb1d2&v=4" width="24" alt="Avatar of idstck"> idstck
-			</a><br/>
-			IDStack
-		</td>
-		<td>Idstack </td>
-		<td>No Twitter Username</td>
-		<td>Cirebon, Indonesia.</td>
 		<td>155</td>
 	</tr>
 	<tr>
@@ -9545,6 +9545,19 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 	<tr>
 		<td>727</td>
 		<td>
+			<a href="https://github.com/AlfariziDwiPrasetyo">
+				<img src="https://avatars.githubusercontent.com/u/73646845?s=72&u=9aa4bb6c49d21a9e11798a95bddbc853b983ca90&v=4" width="24" alt="Avatar of AlfariziDwiPrasetyo"> AlfariziDwiPrasetyo
+			</a><br/>
+			Al Farizi Dwi Prasetyo
+		</td>
+		<td>Universitas Muhammadiyah Cirebon </td>
+		<td>No Twitter Username</td>
+		<td>Indramayu, West java, Indonesia</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
 			<a href="https://github.com/ans-4175">
 				<img src="https://avatars.githubusercontent.com/u/3961872?s=72&u=694846bfb92ed05ec0d7dc25004c2cbe266f08d9&v=4" width="24" alt="Avatar of ans-4175"> ans-4175
 			</a><br/>
@@ -9556,7 +9569,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/ravielze">
 				<img src="https://avatars.githubusercontent.com/u/25381483?s=72&u=3ece6375cc9d1230f4ee620f07e99e0a14bb7f52&v=4" width="24" alt="Avatar of ravielze"> ravielze
@@ -9569,7 +9582,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/blitzkz23">
 				<img src="https://avatars.githubusercontent.com/u/68576505?s=72&u=f56ce8fb0cc2d767a2026fb7ca63e87906844808&v=4" width="24" alt="Avatar of blitzkz23"> blitzkz23
@@ -9582,7 +9595,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/cuddlexyz">
 				<img src="https://avatars.githubusercontent.com/u/54711286?s=72&u=d7fe66f89f426312c8f57504547665f258ef1080&v=4" width="24" alt="Avatar of cuddlexyz"> cuddlexyz
@@ -9595,7 +9608,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/peterjkambey">
 				<img src="https://avatars.githubusercontent.com/u/1121775?s=72&u=acff9139c756595cb2ada3f7262ae7d5898e683f&v=4" width="24" alt="Avatar of peterjkambey"> peterjkambey
@@ -9608,7 +9621,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/azukashi">
 				<img src="https://avatars.githubusercontent.com/u/68645946?s=72&u=6be70f1789ad07d27f04534a38a2b3b15691631b&v=4" width="24" alt="Avatar of azukashi"> azukashi
@@ -9621,7 +9634,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/mychaelgo">
 				<img src="https://avatars.githubusercontent.com/u/4651658?s=72&v=4" width="24" alt="Avatar of mychaelgo"> mychaelgo
@@ -9634,7 +9647,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/ariandanim">
 				<img src="https://avatars.githubusercontent.com/u/49848117?s=72&u=331b85b554fde698d93b2164aa2ccd14e89dd700&v=4" width="24" alt="Avatar of ariandanim"> ariandanim
@@ -9647,7 +9660,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/zanuarts">
 				<img src="https://avatars.githubusercontent.com/u/47655479?s=72&u=25e9fe5985bacbdb065b77e857af9a718182fa4f&v=4" width="24" alt="Avatar of zanuarts"> zanuarts
@@ -9657,19 +9670,6 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>@dicoding-dev </td>
 		<td><a href="https://twitter.com/zanuarts">zanuarts</a></td>
 		<td>Indonesia</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>736</td>
-		<td>
-			<a href="https://github.com/AlfariziDwiPrasetyo">
-				<img src="https://avatars.githubusercontent.com/u/73646845?s=72&u=9aa4bb6c49d21a9e11798a95bddbc853b983ca90&v=4" width="24" alt="Avatar of AlfariziDwiPrasetyo"> AlfariziDwiPrasetyo
-			</a><br/>
-			Al Farizi Dwi Prasetyo
-		</td>
-		<td>Universitas Muhammadiyah Cirebon </td>
-		<td>No Twitter Username</td>
-		<td>Indramayu, West java, Indonesia</td>
 		<td>106</td>
 	</tr>
 	<tr>
@@ -10559,6 +10559,19 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 	<tr>
 		<td>805</td>
 		<td>
+			<a href="https://github.com/sheenazien8">
+				<img src="https://avatars.githubusercontent.com/u/37477023?s=72&u=298c062f18a072243f2ff0244b021cc517cecd24&v=4" width="24" alt="Avatar of sheenazien8"> sheenazien8
+			</a><br/>
+			zien
+		</td>
+		<td>@lakasir </td>
+		<td>No Twitter Username</td>
+		<td>Jepara, Jawa Tengah, Indonesia</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>806</td>
+		<td>
 			<a href="https://github.com/ErickEzrandy274">
 				<img src="https://avatars.githubusercontent.com/u/75024713?s=72&u=7d96f32b7ff934e1938ed9b5c0c9dc580557e40a&v=4" width="24" alt="Avatar of ErickEzrandy274"> ErickEzrandy274
 			</a><br/>
@@ -10570,7 +10583,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/handiko">
 				<img src="https://avatars.githubusercontent.com/u/16716900?s=72&u=6e61fde4dcf3a04166f28650d3c641f230e8cf7f&v=4" width="24" alt="Avatar of handiko"> handiko
@@ -10583,7 +10596,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/fawwaz37">
 				<img src="https://avatars.githubusercontent.com/u/26057436?s=72&u=9536db386940cf9a4ef2000c2f324bdc6aa536f4&v=4" width="24" alt="Avatar of fawwaz37"> fawwaz37
@@ -10596,7 +10609,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/arifnd">
 				<img src="https://avatars.githubusercontent.com/u/691465?s=72&u=12c990b1146dd0b6c74ba69ceeac16237e7cc0ac&v=4" width="24" alt="Avatar of arifnd"> arifnd
@@ -10609,7 +10622,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/mrp130">
 				<img src="https://avatars.githubusercontent.com/u/8136735?s=72&u=50f588203ed27430d287ce3d438a46d43d2072fe&v=4" width="24" alt="Avatar of mrp130"> mrp130
@@ -10622,7 +10635,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/Skyproject12">
 				<img src="https://avatars.githubusercontent.com/u/46820477?s=72&u=a99ab8afb55536b1a9c047ee4eb49e752214af04&v=4" width="24" alt="Avatar of Skyproject12"> Skyproject12
@@ -10635,7 +10648,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/qbl">
 				<img src="https://avatars.githubusercontent.com/u/304148?s=72&u=dd5798b3d1e50731c3e03231bd25e1eb467abbc1&v=4" width="24" alt="Avatar of qbl"> qbl
@@ -10648,7 +10661,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/Tsuyoken">
 				<img src="https://avatars.githubusercontent.com/u/52185202?s=72&u=d311d00610379df9702a8a19e8e7556b306fc6af&v=4" width="24" alt="Avatar of Tsuyoken"> Tsuyoken
@@ -10661,7 +10674,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/mzaksana">
 				<img src="https://avatars.githubusercontent.com/u/31309029?s=72&u=46f53e0e301316572393a15de478718cd1b6968f&v=4" width="24" alt="Avatar of mzaksana"> mzaksana
@@ -10674,7 +10687,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/ShirokamiRyzen">
 				<img src="https://avatars.githubusercontent.com/u/76462435?s=72&u=fa2e6ab8ae56df48bcf0e1165dee58f6bf080352&v=4" width="24" alt="Avatar of ShirokamiRyzen"> ShirokamiRyzen
@@ -10687,7 +10700,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/feryardiant">
 				<img src="https://avatars.githubusercontent.com/u/508665?s=72&v=4" width="24" alt="Avatar of feryardiant"> feryardiant
@@ -10700,7 +10713,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/dicka88">
 				<img src="https://avatars.githubusercontent.com/u/50340947?s=72&u=bfcf1d3c43e3b010ad027acc4c31dab89300b49e&v=4" width="24" alt="Avatar of dicka88"> dicka88
@@ -10713,7 +10726,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/rizqitsani">
 				<img src="https://avatars.githubusercontent.com/u/68275535?s=72&v=4" width="24" alt="Avatar of rizqitsani"> rizqitsani
@@ -10726,7 +10739,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/revanp">
 				<img src="https://avatars.githubusercontent.com/u/25723940?s=72&u=0104cc9e3667e554f2b59d6633b15932a96f6b41&v=4" width="24" alt="Avatar of revanp"> revanp
@@ -10739,7 +10752,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/kevinmf1">
 				<img src="https://avatars.githubusercontent.com/u/97342935?s=72&u=289fcf2157b4b0349528d66f3789a12e1a55a965&v=4" width="24" alt="Avatar of kevinmf1"> kevinmf1
@@ -10752,7 +10765,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/muhrusdi">
 				<img src="https://avatars.githubusercontent.com/u/9457288?s=72&u=c9f034a3e52d0db479df4d5615ba7d83c16a9028&v=4" width="24" alt="Avatar of muhrusdi"> muhrusdi
@@ -10765,7 +10778,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/za">
 				<img src="https://avatars.githubusercontent.com/u/409455?s=72&u=2b12429a748a71225974f9311bd8f5acc7c4b316&v=4" width="24" alt="Avatar of za"> za
@@ -10778,7 +10791,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/bakunya">
 				<img src="https://avatars.githubusercontent.com/u/67939204?s=72&u=ac3e82c212808573ec3872449ddf0cb69c142c95&v=4" width="24" alt="Avatar of bakunya"> bakunya
@@ -10791,7 +10804,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/ervalsa">
 				<img src="https://avatars.githubusercontent.com/u/34961795?s=72&u=ed840c29824b9fc527f150b9e0fd0e4cbc57ae15&v=4" width="24" alt="Avatar of ervalsa"> ervalsa
@@ -10804,7 +10817,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/BobbyWibowo">
 				<img src="https://avatars.githubusercontent.com/u/9364930?s=72&u=205f0ab840badd91088dee1a98fd3a2514306c30&v=4" width="24" alt="Avatar of BobbyWibowo"> BobbyWibowo
@@ -10817,7 +10830,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/javawebmedia">
 				<img src="https://avatars.githubusercontent.com/u/23754756?s=72&u=fa3554b4cf36c645c107219e7249072f8b3b08fe&v=4" width="24" alt="Avatar of javawebmedia"> javawebmedia
@@ -10830,7 +10843,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/batujatoh">
 				<img src="https://avatars.githubusercontent.com/u/137569313?s=72&u=45b7f02fd250a5cf8409a4d7ee1f1baf4ec60b8b&v=4" width="24" alt="Avatar of batujatoh"> batujatoh
@@ -10843,7 +10856,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/rifqirosyidi">
 				<img src="https://avatars.githubusercontent.com/u/41833714?s=72&u=eb36ad38c5cf9becac2928a9c63c46efa1abfa7d&v=4" width="24" alt="Avatar of rifqirosyidi"> rifqirosyidi
@@ -10856,7 +10869,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/indrazm">
 				<img src="https://avatars.githubusercontent.com/u/114550938?s=72&u=6dd93372a34cd1f0e91e9cc67e5e6d658e251811&v=4" width="24" alt="Avatar of indrazm"> indrazm
@@ -10866,19 +10879,6 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>Devscale Indonesia </td>
 		<td><a href="https://twitter.com/indrazulfi">indrazulfi</a></td>
 		<td>Surabaya, Indonesia</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>829</td>
-		<td>
-			<a href="https://github.com/sheenazien8">
-				<img src="https://avatars.githubusercontent.com/u/37477023?s=72&u=298c062f18a072243f2ff0244b021cc517cecd24&v=4" width="24" alt="Avatar of sheenazien8"> sheenazien8
-			</a><br/>
-			zien
-		</td>
-		<td>@lakasir </td>
-		<td>No Twitter Username</td>
-		<td>Jepara, Jawa Tengah, Indonesia</td>
 		<td>96</td>
 	</tr>
 	<tr>
@@ -12067,19 +12067,6 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 	<tr>
 		<td>921</td>
 		<td>
-			<a href="https://github.com/Rqwannn">
-				<img src="https://avatars.githubusercontent.com/u/76896784?s=72&u=02f76c13d663f66011ba2cd3830e962e5c4505ee&v=4" width="24" alt="Avatar of Rqwannn"> Rqwannn
-			</a><br/>
-			Muhammad Raqwan
-		</td>
-		<td>Google Dsc Ug </td>
-		<td>No Twitter Username</td>
-		<td>Depok, Indonesia</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>922</td>
-		<td>
 			<a href="https://github.com/Psianturi">
 				<img src="https://avatars.githubusercontent.com/u/42699234?s=72&u=c4bf6c9f51ccfefcc94d63f43e41d0a9f5da17de&v=4" width="24" alt="Avatar of Psianturi"> Psianturi
 			</a><br/>
@@ -12091,7 +12078,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/DhytoDev">
 				<img src="https://avatars.githubusercontent.com/u/4839209?s=72&u=db5797bb55b792e3985303a164925931834e201d&v=4" width="24" alt="Avatar of DhytoDev"> DhytoDev
@@ -12104,7 +12091,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/HilmiZul">
 				<img src="https://avatars.githubusercontent.com/u/6418851?s=72&u=1cdbad75c5059892d8a44f8c0c61aef5f2a45b40&v=4" width="24" alt="Avatar of HilmiZul"> HilmiZul
@@ -12117,7 +12104,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/adzinzhalifunnas">
 				<img src="https://avatars.githubusercontent.com/u/36525652?s=72&u=cbf563f3abd3e0a0d24fe492062de900cb777269&v=4" width="24" alt="Avatar of adzinzhalifunnas"> adzinzhalifunnas
@@ -12130,7 +12117,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/harsxv">
 				<img src="https://avatars.githubusercontent.com/u/32115753?s=72&u=4f1a6b9e0c3b9ecdccbe1852b9426029e138b189&v=4" width="24" alt="Avatar of harsxv"> harsxv
@@ -12143,7 +12130,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/azhry">
 				<img src="https://avatars.githubusercontent.com/u/9222583?s=72&u=fcb7a2cb868c98c06ee82d1ba5b1ce67473dfe40&v=4" width="24" alt="Avatar of azhry"> azhry
@@ -12156,7 +12143,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/fiyuang">
 				<img src="https://avatars.githubusercontent.com/u/36722178?s=72&u=a8e8f82b2fc68d228b0fcd3cb9b54f07d369693e&v=4" width="24" alt="Avatar of fiyuang"> fiyuang
@@ -12169,7 +12156,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/seagatesoft">
 				<img src="https://avatars.githubusercontent.com/u/507614?s=72&v=4" width="24" alt="Avatar of seagatesoft"> seagatesoft
@@ -12182,7 +12169,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/alterzero">
 				<img src="https://avatars.githubusercontent.com/u/29477440?s=72&u=fbcbf533b107bad38e8f05b501366e87230c8eda&v=4" width="24" alt="Avatar of alterzero"> alterzero
@@ -12195,7 +12182,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/ahsanzizan">
 				<img src="https://avatars.githubusercontent.com/u/116133300?s=72&u=c2ee04f3a5783f2f0fda4001f087f5278399df7d&v=4" width="24" alt="Avatar of ahsanzizan"> ahsanzizan
@@ -12208,7 +12195,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/jasonrivalino">
 				<img src="https://avatars.githubusercontent.com/u/91790457?s=72&u=efd79475e18f26d152d736442eb82ad24992b880&v=4" width="24" alt="Avatar of jasonrivalino"> jasonrivalino
@@ -12221,7 +12208,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/pragusga25">
 				<img src="https://avatars.githubusercontent.com/u/73622464?s=72&u=c83d2b3610232ed507c73459fc2dac33558c7275&v=4" width="24" alt="Avatar of pragusga25"> pragusga25
@@ -12234,7 +12221,7 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/luisadha">
 				<img src="https://avatars.githubusercontent.com/u/40796508?s=72&u=7e2198631628f6e54f8a1632f0587d545292169e&v=4" width="24" alt="Avatar of luisadha"> luisadha
@@ -12244,6 +12231,19 @@ There are `969 users`  in Indonesia. You need at least `85 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cirebon, West Java, Indonesia</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>934</td>
+		<td>
+			<a href="https://github.com/Rqwannn">
+				<img src="https://avatars.githubusercontent.com/u/76896784?s=72&u=02f76c13d663f66011ba2cd3830e962e5c4505ee&v=4" width="24" alt="Avatar of Rqwannn"> Rqwannn
+			</a><br/>
+			Muhammad Raqwan
+		</td>
+		<td>Google Dsc Ug </td>
+		<td>No Twitter Username</td>
+		<td>Depok, Indonesia</td>
 		<td>88</td>
 	</tr>
 	<tr>
