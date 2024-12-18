@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2024/12/18 12:52 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2024/12/18 1:38 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -115,7 +115,7 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 		<td>Pasundan University Bandung </td>
 		<td><a href="https://twitter.com/sandhikagalih">sandhikagalih</a></td>
 		<td>Indonesia</td>
-		<td>16181</td>
+		<td>16182</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -505,7 +505,7 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 		<td>Android Ryuki Mods </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>934</td>
+		<td>933</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -674,7 +674,7 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jakarta</td>
-		<td>754</td>
+		<td>755</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -804,7 +804,7 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>696</td>
+		<td>699</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -2746,19 +2746,6 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 	<tr>
 		<td>204</td>
 		<td>
-			<a href="https://github.com/toopay">
-				<img src="https://avatars.githubusercontent.com/u/534245?s=72&u=9f93cb77fe4fdfad1aad87458e34033d6a109114&v=4" width="24" alt="Avatar of toopay"> toopay
-			</a><br/>
-			Taufan Aditya
-		</td>
-		<td>@refactory-id, @sev-2 </td>
-		<td>No Twitter Username</td>
-		<td>Surabaya</td>
-		<td>271</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
 			<a href="https://github.com/restuwahyu13">
 				<img src="https://avatars.githubusercontent.com/u/25425608?s=72&u=a90356fd7acdb6865100d0701b8dd329ea96e06c&v=4" width="24" alt="Avatar of restuwahyu13"> restuwahyu13
 			</a><br/>
@@ -2767,6 +2754,19 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kota Depok</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/toopay">
+				<img src="https://avatars.githubusercontent.com/u/534245?s=72&u=9f93cb77fe4fdfad1aad87458e34033d6a109114&v=4" width="24" alt="Avatar of toopay"> toopay
+			</a><br/>
+			Taufan Aditya
+		</td>
+		<td>@refactory-id, @sev-2 </td>
+		<td>No Twitter Username</td>
+		<td>Surabaya</td>
 		<td>271</td>
 	</tr>
 	<tr>
@@ -3474,6 +3474,19 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 	<tr>
 		<td>260</td>
 		<td>
+			<a href="https://github.com/justakazh">
+				<img src="https://avatars.githubusercontent.com/u/36891477?s=72&u=37acb00c37736142e220ceaf9596d52c9b158124&v=4" width="24" alt="Avatar of justakazh"> justakazh
+			</a><br/>
+			Akas Wisnu Aji
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/justakazh">justakazh</a></td>
+		<td>Indonesia</td>
+		<td>229</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
 			<a href="https://github.com/suendri">
 				<img src="https://avatars.githubusercontent.com/u/1276657?s=72&u=b59420f1ec9fb9c5188aa92da23b2a730665cf3f&v=4" width="24" alt="Avatar of suendri"> suendri
 			</a><br/>
@@ -3485,7 +3498,7 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/arifistifik">
 				<img src="https://avatars.githubusercontent.com/u/37590868?s=72&u=38cd97bf0c32dee5a849b8a626d817fe22fac302&v=4" width="24" alt="Avatar of arifistifik"> arifistifik
@@ -3496,19 +3509,6 @@ There are `968 users`  in Indonesia. You need at least `89 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>YOGYAKARTA-INDONESIA</td>
 		<td>229</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/justakazh">
-				<img src="https://avatars.githubusercontent.com/u/36891477?s=72&u=37acb00c37736142e220ceaf9596d52c9b158124&v=4" width="24" alt="Avatar of justakazh"> justakazh
-			</a><br/>
-			Akas Wisnu Aji
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/justakazh">justakazh</a></td>
-		<td>Indonesia</td>
-		<td>228</td>
 	</tr>
 	<tr>
 		<td>263</td>
