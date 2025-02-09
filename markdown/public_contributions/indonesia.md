@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` by users in Indonesia on `2025/2/9 7:23 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` by users in Indonesia on `2025/2/9 8:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -128,7 +128,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>Kios Gameku </td>
 		<td><a href="https://twitter.com/IdSetiawan007">IdSetiawan007</a></td>
 		<td>Indonesia</td>
-		<td>222968</td>
+		<td>222994</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>@imtaqin @tegal1337  </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>114880</td>
+		<td>114897</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -219,7 +219,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>21196</td>
+		<td>21202</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>Pt Energi Pelabuhan Indonesia<br/></td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>20976</td>
+		<td>20982</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,7 +245,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>@firstplato  </td>
 		<td><a href="https://twitter.com/firstplato">firstplato</a></td>
 		<td>61256 Sidoarjo, East Java, Indonesia</td>
-		<td>17073</td>
+		<td>17075</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/officialputuid">officialputuid</a></td>
 		<td>Bali, Indonesia</td>
-		<td>17022</td>
+		<td>17023</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -284,7 +284,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>Herzarika </td>
 		<td><a href="https://twitter.com/Herzarika">Herzarika</a></td>
 		<td>Indonesia</td>
-		<td>15891</td>
+		<td>15893</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -323,7 +323,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jakarta</td>
-		<td>7710</td>
+		<td>7711</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -336,7 +336,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>@halcyonproject </td>
 		<td><a href="https://twitter.com/imaherobuxx">imaherobuxx</a></td>
 		<td>Indonesia</td>
-		<td>6637</td>
+		<td>6638</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -1121,6 +1121,19 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 	<tr>
 		<td>79</td>
 		<td>
+			<a href="https://github.com/luisadha">
+				<img src="https://avatars.githubusercontent.com/u/40796508?s=72&u=7e2198631628f6e54f8a1632f0587d545292169e&v=4" width="24" alt="Avatar of luisadha"> luisadha
+			</a><br/>
+			Luis Adha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cirebon, West Java, Indonesia</td>
+		<td>848</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
 			<a href="https://github.com/mandaputtra">
 				<img src="https://avatars.githubusercontent.com/u/23342943?s=72&u=fa9f88590d47e485a999c6b21f8ed5c3248f28d5&v=4" width="24" alt="Avatar of mandaputtra"> mandaputtra
 			</a><br/>
@@ -1130,19 +1143,6 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td><a href="https://twitter.com/_mandaputtra">_mandaputtra</a></td>
 		<td>Yogyakarta, Indonesia</td>
 		<td>843</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/luisadha">
-				<img src="https://avatars.githubusercontent.com/u/40796508?s=72&u=7e2198631628f6e54f8a1632f0587d545292169e&v=4" width="24" alt="Avatar of luisadha"> luisadha
-			</a><br/>
-			Luis Adha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cirebon, West Java, Indonesia</td>
-		<td>839</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1511,19 +1511,6 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 	<tr>
 		<td>109</td>
 		<td>
-			<a href="https://github.com/khannedy">
-				<img src="https://avatars.githubusercontent.com/u/70091?s=72&u=92d00a86072923da022175e9d7b9758c35c426db&v=4" width="24" alt="Avatar of khannedy"> khannedy
-			</a><br/>
-			Eko Kurniawan Khannedy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/khannedy">khannedy</a></td>
-		<td>Jakarta, Indonesia</td>
-		<td>617</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
 			<a href="https://github.com/royhankamil">
 				<img src="https://avatars.githubusercontent.com/u/114550416?s=72&u=1befe7219dba41969366f16c121a2d9a386449b0&v=4" width="24" alt="Avatar of royhankamil"> royhankamil
 			</a><br/>
@@ -1532,6 +1519,19 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>Smkn 4 Malang </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
+		<td>618</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/khannedy">
+				<img src="https://avatars.githubusercontent.com/u/70091?s=72&u=92d00a86072923da022175e9d7b9758c35c426db&v=4" width="24" alt="Avatar of khannedy"> khannedy
+			</a><br/>
+			Eko Kurniawan Khannedy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/khannedy">khannedy</a></td>
+		<td>Jakarta, Indonesia</td>
 		<td>617</td>
 	</tr>
 	<tr>
@@ -2819,7 +2819,7 @@ There are `966 users`  in Indonesia. You need at least `92 followers` to be on t
 		<td>Zi.care </td>
 		<td>No Twitter Username</td>
 		<td>Bogor, West Java, Indonesia</td>
-		<td>310</td>
+		<td>312</td>
 	</tr>
 	<tr>
 		<td>210</td>
