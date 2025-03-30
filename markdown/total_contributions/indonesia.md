@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `public contributions` and `private contributions` by users in Indonesia on `2025/3/30 10:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `public contributions` and `private contributions` by users in Indonesia on `2025/3/30 11:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -130,8 +130,8 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>Kios Gameku </td>
 		<td><a href="https://twitter.com/IdSetiawan007">IdSetiawan007</a></td>
 		<td>Indonesia</td>
-		<td>218078</td>
-		<td>218078</td>
+		<td>218104</td>
+		<td>218104</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>@imtaqin @tegal1337  </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>105277</td>
-		<td>106568</td>
+		<td>105284</td>
+		<td>106575</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -228,8 +228,8 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>28097</td>
-		<td>28417</td>
+		<td>28103</td>
+		<td>28423</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,8 +242,8 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>Pt Energi Pelabuhan Indonesia<br/></td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>27985</td>
-		<td>28247</td>
+		<td>27991</td>
+		<td>28253</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -270,8 +270,8 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>@firstplato  </td>
 		<td><a href="https://twitter.com/firstplato">firstplato</a></td>
 		<td>61256 Sidoarjo, East Java, Indonesia</td>
-		<td>16747</td>
-		<td>16747</td>
+		<td>16749</td>
+		<td>16749</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -284,8 +284,8 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>Herzarika </td>
 		<td><a href="https://twitter.com/Herzarika">Herzarika</a></td>
 		<td>Indonesia</td>
-		<td>15428</td>
-		<td>15428</td>
+		<td>15430</td>
+		<td>15430</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -341,7 +341,7 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td><a href="https://twitter.com/farhanrivaldy_">farhanrivaldy_</a></td>
 		<td>Balikpapan, Indonesia</td>
 		<td>242</td>
-		<td>8957</td>
+		<td>8958</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -355,7 +355,7 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td><a href="https://twitter.com/Isallkun">Isallkun</a></td>
 		<td>Pasuruan, East Java, Indonesia</td>
 		<td>101</td>
-		<td>8593</td>
+		<td>8594</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -719,7 +719,7 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>493</td>
-		<td>3350</td>
+		<td>3351</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -2567,7 +2567,7 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>21</td>
-		<td>1228</td>
+		<td>1231</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -3090,6 +3090,20 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 	<tr>
 		<td>214</td>
 		<td>
+			<a href="https://github.com/hibuno">
+				<img src="https://avatars.githubusercontent.com/u/17744043?s=72&u=512fe3103ab7dc940dc85c975580db198beb3576&v=4" width="24" alt="Avatar of hibuno"> hibuno
+			</a><br/>
+			Muhibbudin Suretno
+		</td>
+		<td>@narawira </td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
+		<td>23</td>
+		<td>1039</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
 			<a href="https://github.com/rezadrian01">
 				<img src="https://avatars.githubusercontent.com/u/160205313?s=72&u=2e07356ade9f08ba12dd7069d91fa80b434b185a&v=4" width="24" alt="Avatar of rezadrian01"> rezadrian01
 			</a><br/>
@@ -3100,20 +3114,6 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>Malang, Indonesia</td>
 		<td>786</td>
 		<td>1039</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
-			<a href="https://github.com/hibuno">
-				<img src="https://avatars.githubusercontent.com/u/17744043?s=72&u=512fe3103ab7dc940dc85c975580db198beb3576&v=4" width="24" alt="Avatar of hibuno"> hibuno
-			</a><br/>
-			Muhibbudin Suretno
-		</td>
-		<td>@narawira </td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
-		<td>23</td>
-		<td>1029</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -5274,6 +5274,20 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 	<tr>
 		<td>370</td>
 		<td>
+			<a href="https://github.com/reynaldomarchell">
+				<img src="https://avatars.githubusercontent.com/u/106380636?s=72&u=41d1b95953e24970c00898e752c3dd5f3d8faea0&v=4" width="24" alt="Avatar of reynaldomarchell"> reynaldomarchell
+			</a><br/>
+			Reynaldo Marchell Bagas Adji
+		</td>
+		<td>Bina Nusantara Computer Club<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bandung, Indonesia</td>
+		<td>474</td>
+		<td>484</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
 			<a href="https://github.com/thoriqagfi">
 				<img src="https://avatars.githubusercontent.com/u/92865110?s=72&u=f49829aad3bce7c1982dc7debee084aa534e4568&v=4" width="24" alt="Avatar of thoriqagfi"> thoriqagfi
 			</a><br/>
@@ -5284,20 +5298,6 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>Jakarta, Indonesia</td>
 		<td>424</td>
 		<td>484</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/reynaldomarchell">
-				<img src="https://avatars.githubusercontent.com/u/106380636?s=72&u=41d1b95953e24970c00898e752c3dd5f3d8faea0&v=4" width="24" alt="Avatar of reynaldomarchell"> reynaldomarchell
-			</a><br/>
-			Reynaldo Marchell Bagas Adji
-		</td>
-		<td>Bina Nusantara Computer Club<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bandung, Indonesia</td>
-		<td>473</td>
-		<td>483</td>
 	</tr>
 	<tr>
 		<td>372</td>

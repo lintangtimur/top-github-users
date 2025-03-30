@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2025/3/30 10:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2025/3/30 11:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -180,7 +180,7 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>@grab </td>
 		<td><a href="https://twitter.com/sonnylazuardi">sonnylazuardi</a></td>
 		<td>Singapore & Indonesia</td>
-		<td>2537</td>
+		<td>2538</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -3079,7 +3079,7 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>@hisokalabs @greyrat-dev </td>
 		<td><a href="https://twitter.com/DikaArdnt">DikaArdnt</a></td>
 		<td>Blitar, Jawa Timur, Indonesia</td>
-		<td>260</td>
+		<td>261</td>
 	</tr>
 	<tr>
 		<td>230</td>
@@ -4176,6 +4176,19 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 	<tr>
 		<td>314</td>
 		<td>
+			<a href="https://github.com/hawariMuflihMunte">
+				<img src="https://avatars.githubusercontent.com/u/90821837?s=72&u=0c0a61666890c5561dc37effc70b3bff7a61975a&v=4" width="24" alt="Avatar of hawariMuflihMunte"> hawariMuflihMunte
+			</a><br/>
+			Hawari Muflih Munte
+		</td>
+		<td>Malikussaleh University </td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
+		<td>212</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
 			<a href="https://github.com/Fall-Xavier">
 				<img src="https://avatars.githubusercontent.com/u/84975017?s=72&u=93336f4d125bb9d7d099b3d6157f7da401d71b5b&v=4" width="24" alt="Avatar of Fall-Xavier"> Fall-Xavier
 			</a><br/>
@@ -4185,19 +4198,6 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>212</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/hawariMuflihMunte">
-				<img src="https://avatars.githubusercontent.com/u/90821837?s=72&u=0c0a61666890c5561dc37effc70b3bff7a61975a&v=4" width="24" alt="Avatar of hawariMuflihMunte"> hawariMuflihMunte
-			</a><br/>
-			Hawari Muflih Munte
-		</td>
-		<td>Malikussaleh University </td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
-		<td>211</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -12314,19 +12314,6 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 	<tr>
 		<td>940</td>
 		<td>
-			<a href="https://github.com/thoriqagfi">
-				<img src="https://avatars.githubusercontent.com/u/92865110?s=72&u=f49829aad3bce7c1982dc7debee084aa534e4568&v=4" width="24" alt="Avatar of thoriqagfi"> thoriqagfi
-			</a><br/>
-			Agfi
-		</td>
-		<td>Apple Developer Academy Indonesia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Jakarta, Indonesia</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>941</td>
-		<td>
 			<a href="https://github.com/reynaldomarchell">
 				<img src="https://avatars.githubusercontent.com/u/106380636?s=72&u=41d1b95953e24970c00898e752c3dd5f3d8faea0&v=4" width="24" alt="Avatar of reynaldomarchell"> reynaldomarchell
 			</a><br/>
@@ -12335,6 +12322,19 @@ There are `965 users`  in Indonesia. You need at least `94 followers` to be on t
 		<td>Bina Nusantara Computer Club<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bandung, Indonesia</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>941</td>
+		<td>
+			<a href="https://github.com/thoriqagfi">
+				<img src="https://avatars.githubusercontent.com/u/92865110?s=72&u=f49829aad3bce7c1982dc7debee084aa534e4568&v=4" width="24" alt="Avatar of thoriqagfi"> thoriqagfi
+			</a><br/>
+			Agfi
+		</td>
+		<td>Apple Developer Academy Indonesia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Jakarta, Indonesia</td>
 		<td>96</td>
 	</tr>
 	<tr>
