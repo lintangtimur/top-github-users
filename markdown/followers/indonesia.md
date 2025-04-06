@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2025/4/6 9:28 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2025/4/6 10:29 PM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -128,7 +128,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>Laravel Developer </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>4003</td>
+		<td>4004</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -167,7 +167,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>@grab </td>
 		<td><a href="https://twitter.com/sonnylazuardi">sonnylazuardi</a></td>
 		<td>Singapore & Indonesia</td>
-		<td>2554</td>
+		<td>2555</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1480,7 +1480,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>Security Research ಠ_ಠ @epicgames<br/>@hackclub<br/>@webxdao<br/></td>
 		<td>No Twitter Username</td>
 		<td>South Jakarta, Indonesia</td>
-		<td>448</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -3786,6 +3786,19 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 	<tr>
 		<td>284</td>
 		<td>
+			<a href="https://github.com/Jonathan0823">
+				<img src="https://avatars.githubusercontent.com/u/146400304?s=72&u=a9184460329c36433d3021952ded738a0c73602d&v=4" width="24" alt="Avatar of Jonathan0823"> Jonathan0823
+			</a><br/>
+			Guinn
+		</td>
+		<td>Pt Century Batteries Indonesia<br/></td>
+		<td><a href="https://twitter.com/GuinnJo1">GuinnJo1</a></td>
+		<td>Indonesia</td>
+		<td>227</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
 			<a href="https://github.com/andregans">
 				<img src="https://avatars.githubusercontent.com/u/72931786?s=72&u=7cc074575047e8b94b251fdff5eff5c3ee66a7ba&v=4" width="24" alt="Avatar of andregans"> andregans
 			</a><br/>
@@ -3795,19 +3808,6 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
 		<td>227</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/Jonathan0823">
-				<img src="https://avatars.githubusercontent.com/u/146400304?s=72&u=a9184460329c36433d3021952ded738a0c73602d&v=4" width="24" alt="Avatar of Jonathan0823"> Jonathan0823
-			</a><br/>
-			Guinn
-		</td>
-		<td>Pt Century Batteries Indonesia<br/></td>
-		<td><a href="https://twitter.com/GuinnJo1">GuinnJo1</a></td>
-		<td>Indonesia</td>
-		<td>226</td>
 	</tr>
 	<tr>
 		<td>286</td>
@@ -7023,6 +7023,19 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 	<tr>
 		<td>533</td>
 		<td>
+			<a href="https://github.com/malvinval">
+				<img src="https://avatars.githubusercontent.com/u/78136971?s=72&u=32f01d9ca96c23aedad4906d3168f1cf6a8eb0ee&v=4" width="24" alt="Avatar of malvinval"> malvinval
+			</a><br/>
+			Malvin Valerian
+		</td>
+		<td>@bellshade </td>
+		<td>No Twitter Username</td>
+		<td>Indonesia</td>
+		<td>147</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
 			<a href="https://github.com/bayufedra">
 				<img src="https://avatars.githubusercontent.com/u/26889827?s=72&u=da624e886a52fc21de68a5892937842fd0c13a81&v=4" width="24" alt="Avatar of bayufedra"> bayufedra
 			</a><br/>
@@ -7034,7 +7047,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/reysiregar">
 				<img src="https://avatars.githubusercontent.com/u/82658782?s=72&u=7b29db3dafa10b97e9e2c9f805f87e23def076df&v=4" width="24" alt="Avatar of reysiregar"> reysiregar
@@ -7047,7 +7060,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/bima-putral">
 				<img src="https://avatars.githubusercontent.com/u/48901540?s=72&u=035b8b9ef07fea6d24b1099a54ad9fb683af84a4&v=4" width="24" alt="Avatar of bima-putral"> bima-putral
@@ -7060,7 +7073,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/Anonymous3-SIT">
 				<img src="https://avatars.githubusercontent.com/u/62769928?s=72&u=a2aa629f10dd5a469a4676490c85f6d14f3fe38e&v=4" width="24" alt="Avatar of Anonymous3-SIT"> Anonymous3-SIT
@@ -7073,7 +7086,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/Basari-ID">
 				<img src="https://avatars.githubusercontent.com/u/107491771?s=72&u=b30d3c15156c36ec0efcd572576fe01840355683&v=4" width="24" alt="Avatar of Basari-ID"> Basari-ID
@@ -7086,7 +7099,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/swdevbali">
 				<img src="https://avatars.githubusercontent.com/u/576066?s=72&v=4" width="24" alt="Avatar of swdevbali"> swdevbali
@@ -7096,19 +7109,6 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>Pythonthusiast </td>
 		<td>No Twitter Username</td>
 		<td>Yogyakarta, Indonesia</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>539</td>
-		<td>
-			<a href="https://github.com/malvinval">
-				<img src="https://avatars.githubusercontent.com/u/78136971?s=72&u=32f01d9ca96c23aedad4906d3168f1cf6a8eb0ee&v=4" width="24" alt="Avatar of malvinval"> malvinval
-			</a><br/>
-			Malvin Valerian
-		</td>
-		<td>@bellshade </td>
-		<td>No Twitter Username</td>
-		<td>Indonesia</td>
 		<td>146</td>
 	</tr>
 	<tr>
