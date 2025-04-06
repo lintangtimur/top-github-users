@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia">
 </a>
 
-The `number of followers` of users in Indonesia on `2025/4/6 9:31 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
+The `number of followers` of users in Indonesia on `2025/4/6 10:30 AM UTC`. This list contains users from `Indonesia` and cities `Jakarta` `Bandung` `Surabaya` `Makassar` `Medan` `Semarang` `Palembang` `Depok`.
 
 There are `1 countries` and `8 cities` can be found [here](https://github.com/lintangtimur/top-github-users).
 
@@ -219,7 +219,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>@kosasih-corp  @arthemax @revolutination<br/><br/>@global-food-and-agr<br/><br/></td>
 		<td><a href="https://twitter.com/Kosasihg88G">Kosasihg88G</a></td>
 		<td>INDONESIA</td>
-		<td>2171</td>
+		<td>2172</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -349,7 +349,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>Zlk Cyber </td>
 		<td><a href="https://twitter.com/zlkXeth">zlkXeth</a></td>
 		<td>Indonesia</td>
-		<td>1562</td>
+		<td>1563</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -518,7 +518,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>Android Ryuki Mods </td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>986</td>
+		<td>987</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -2104,7 +2104,7 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>Alsyundawy.com </td>
 		<td><a href="https://twitter.com/alsyundawy">alsyundawy</a></td>
 		<td>DKI Jakarta , Indonesia</td>
-		<td>342</td>
+		<td>343</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -12561,6 +12561,19 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 	<tr>
 		<td>959</td>
 		<td>
+			<a href="https://github.com/Adityacprtm">
+				<img src="https://avatars.githubusercontent.com/u/25094569?s=72&u=1deada2894b378b3bf95d16f152fb88bf25914d9&v=4" width="24" alt="Avatar of Adityacprtm"> Adityacprtm
+			</a><br/>
+			Aditya Pratama
+		</td>
+		<td>@gramedia-engineerin  </td>
+		<td><a href="https://twitter.com/adityacprtm">adityacprtm</a></td>
+		<td>Indonesia</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>960</td>
+		<td>
 			<a href="https://github.com/KevinBagasSaputra">
 				<img src="https://avatars.githubusercontent.com/u/149292645?s=72&u=94725c4921850b78475ef0c62735b5abc5afa1ff&v=4" width="24" alt="Avatar of KevinBagasSaputra"> KevinBagasSaputra
 			</a><br/>
@@ -12569,19 +12582,6 @@ There are `965 users`  in Indonesia. You need at least `95 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Indonesia</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>960</td>
-		<td>
-			<a href="https://github.com/pojokcodeid">
-				<img src="https://avatars.githubusercontent.com/u/68836805?s=72&u=98ac842345aec894b914abda7a1c3d28b753db61&v=4" width="24" alt="Avatar of pojokcodeid"> pojokcodeid
-			</a><br/>
-			Asep Komarudin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pojokcodeid_">pojokcodeid_</a></td>
-		<td>Jakarta Indonesia</td>
 		<td>95</td>
 	</tr>
 	<tr>
